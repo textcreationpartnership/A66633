@@ -1,0 +1,1447 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Examen astronomiæ Carolinæ: T.S. or, a short mathematicall discourse containing, some animadversions upon Mr. Thomas Streetes astronomicall tables of the cœlestial motions wherein his errours and mistakes are clearly detected, and the author hereof justly vindicated from his unjust aspersions. (In an appenidx to the said astronomical treatise.) By Vincent Wing, mathemat.</title>
+            <author>Wing, Vincent, 1619-1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 82 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66633</idno>
+            <idno type="STC">Wing W2990</idno>
+            <idno type="STC">ESTC R224074</idno>
+            <idno type="EEBO-CITATION">99834634</idno>
+            <idno type="PROQUEST">99834634</idno>
+            <idno type="VID">39138</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66633)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39138)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1821:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Examen astronomiæ Carolinæ: T.S. or, a short mathematicall discourse containing, some animadversions upon Mr. Thomas Streetes astronomicall tables of the cœlestial motions wherein his errours and mistakes are clearly detected, and the author hereof justly vindicated from his unjust aspersions. (In an appenidx to the said astronomical treatise.) By Vincent Wing, mathemat.</title>
+                  <author>Wing, Vincent, 1619-1668.</author>
+               </titleStmt>
+               <extent>[6], 42 p. : diagrams, tables;  </extent>
+               <publicationStmt>
+                  <publisher>printed by W. Leybourn, for G. Sawbridge, at the Bible upon Ludgate Hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Streete, Thomas. --  Astronomia Carolina --  Controversial literature --  Early works to 1800.</term>
+               <term>Mathematics --  Tables --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39138:1" rendition="simple:additions"/>
+            <p>
+               <hi>EXAMEN</hi> Aſtronomiae Carolinae: <hi>T. S.</hi> OR, A SHORT <hi>Mathematicall Diſcourſe:</hi> CONTAINING, Some Animadverſions upon Mr. THOMAS STREETES <hi>Aſtronomicall Tables</hi> of the <hi>Coeleſtial Motions</hi> Wherein his <hi>Errours</hi> and <hi>Mistakes</hi> are clearly detected, and the <hi>Author</hi> hereof juſtly vindicated from his unjuſt Aſperſions. (In an <hi>APPENDIX</hi> to the ſaid ASTRONOMICAL <hi>Treatiſe.</hi>) By <hi>Vincent Wing,</hi> Mathemat.</p>
+            <q>
+               <hi>Priùs intellige, &amp; tunc increpa.</hi>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. Leybourn,</hi> for <hi>G. Sawbridge,</hi> at the <hi>Bible</hi> upon <hi>Ludgate</hi> Hill, 1665.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:39138:2"/>
+            <p>HONORABILI VIRO HEN<g ref="char:EOLhyphen"/>RICO NOEL ARMIGERO (Honoratiſſimi Baptiſtae Noell &amp; Hicks, Baronis de Elmington &amp; Ridlington, Vicecomitis de Campden, FILIO SECUNDO)</p>
+            <p>HOC OPUSCULUM QUA<g ref="char:EOLhyphen"/>LECUNQ INFAVORIS SUI COMMEMORATIONEM HUMILLIME.</p>
+            <closer>
+               <signed>D. D. D. <hi>Vin. Wing.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:39138:2"/>
+            <head>To the Impartial READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Inding the very <hi>Fundamentals</hi> of <hi>Aſtrono<g ref="char:EOLhyphen"/>my,</hi> not only undermin'd and much batter'd, but my ſelf lately abuſed in Print, by that <hi>grand Calumniator,</hi> Mr. <hi>Thomas Streete;</hi> I have here undertaken, in a few Pages (ſo far as my urgent occaſions would permit) to inform the World of the <hi>injuſtice</hi> of his actions, giving you a brief view of ſome of the moſt nota<g ref="char:EOLhyphen"/>ble miſtakes, and imperfections, committed in his late <hi>pre<g ref="char:EOLhyphen"/>tended Reſtauration</hi> of <hi>Aſtronomy.</hi> Yet (I confeſs to all) there is no man living that more values and eſteems the just Attemps and Endeavours of thoſe that are the Au<g ref="char:EOLhyphen"/>thours of any commendable Invention, then my ſelf; yea, though it be but mean and ordinary, but eſpecially ought we ſo much the more to esteem it, when the ſame is of a higher and more <hi>Sublime Speculation.</hi> But had our <hi>An<g ref="char:EOLhyphen"/>tagoniſt</hi> been true to the Art be profeſſeth, and (by the best of his endeavours) but rectified the <hi>Planetary-mo<g ref="char:EOLhyphen"/>tions, Eclipſes, &amp;c.</hi> and made them more conſentaneous
+<pb facs="tcp:39138:3"/>to the <hi>Heavens,</hi> then was before performed, there might have been ſome ground for his ſuppoſitions; but the con<g ref="char:EOLhyphen"/>trary clearly appearing (as may be ſeen in the following pages) it ſhews the very ground and foundation of his <hi>Superſtructure</hi> to be <hi>ſandy</hi> and <hi>imperfect.</hi> Neither doth the <hi>fixation</hi> of the <hi>Aphelions</hi> and <hi>Nodes</hi> of the <hi>Planets,</hi> any whit avail him, as the judicious Reader may find, by comparing his Tables with <hi>remote Obſerva<g ref="char:EOLhyphen"/>tions,</hi> which (in ſome meaſure) we ſhall hereafter ex<g ref="char:EOLhyphen"/>hibite in the following <hi>Tractate,</hi> wherein you may ſee the <hi>manifold abſurdities</hi> that follow upon his Suppoſitions. But I hope the more Learned are already ſenſible of the truth, and I believe (alſo) they will conclude that it's im<g ref="char:EOLhyphen"/>poſſible for any man (from the <hi>Obſervation</hi> of <hi>the</hi> ☉ <hi>and</hi> ♀ <hi>Anno 1639.</hi>) to determine the Suns greatest <hi>Horizantal-Parallax</hi> to be only one fourth part of a min. and no more, (which is but one twelfth part of that quantity the noble <hi>Tycho</hi> obſerved) for admit the <hi>Parallax of</hi> ♀ <hi>from</hi> ☉ was <hi>6</hi> min. (as all our late Astronomers grant); yet that's not enough (as I conceive) to determine a thing of that conſequence, in regard no <hi>Tables extant</hi> do agree exactly with the <hi>Obſervations</hi> of her place, but differ from ſome of the <hi>Tychonick Obſervations</hi> about a quarter of a degree, as his <hi>own Tables</hi> witneſs, which doubtleſs ariſeth through the <hi>Refraction</hi> of this <hi>Planet,</hi> alway near the <hi>Horizon</hi> when the Obſervations were made; And beſides, in that remarkable tranſit of <hi>Venus ſub ſole, juxta Horizontem,</hi> her <hi>Refraction</hi> from the <hi>Sun</hi>
+               <pb facs="tcp:39138:3"/>might neer aequalize her <hi>Parallax</hi> ſo near the <hi>Finitor,</hi> which you ſhall find agreeable to the Obſervations and Teſtimony of <hi>Walter Maeſtlin, Hortenſius,</hi> and others, as we ſhall ſhew hereafter. And this may further appear from <hi>Tycho's Obſervations</hi> of her place made near the <hi>Horizon,</hi> which cannot be brought to the <hi>touchſtone</hi> of Truth, neither can the beſt <hi>Artiſts</hi> in the <hi>World</hi> make their <hi>Tables</hi> to repreſent her place ſo exactly, with <hi>Ob<g ref="char:EOLhyphen"/>ſervations,</hi> as they may the places of the other <hi>Planets</hi> taken at a farther diſtance from the <hi>Horizon,</hi> when they were freed from <hi>Refractions,</hi> as is well known to all that are <hi>Artiſts;</hi> and therefore why Mr. <hi>Street,</hi> or any man elſe, ſhould grudge for declaring our diſſent from his <hi>new Suppoſitions;</hi> I am ignorant, eſpecially when they ſee (as they may in the ſubſequent diſcourſe) that Aſtro<g ref="char:EOLhyphen"/>nomy is made infinitely worſe thereby, and that the <hi>Plane<g ref="char:EOLhyphen"/>tary motions</hi> cannot neer ſo exactly be found out and de<g ref="char:EOLhyphen"/>termin'd, as otherwaies they may upon our Hypotheſis, which is the main thing aimed at in all our <hi>Theories</hi> and <hi>Calculations.</hi> But I refer theſe things to the conſi<g ref="char:EOLhyphen"/>deration of the judicious, hoping ſhortly to ſatisfie them in a more ample meaſure; in the mean time I commend theſe few lines to your ſerious peruſall, and reſt</p>
+            <closer>
+               <dateline>Dat. Luffenhamiae <date>Die 27 Februarii A. C. 1664/5.</date>
+               </dateline>
+               <signed>
+                  <hi>Your affectionate Friend,</hi> Vin. Wing.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:39138:4"/>
+            <head>Ad Amicum ſuum ingenioſum <hi>Vincentium Wing.</hi>
+            </head>
+            <l>Quam bènè conveniunt Vincens &amp; mobilis Ala!</l>
+            <l>Hic calcat Populos haec ſuper aſtra volat.</l>
+            <l>Vincas Vincentî tales certare nèc auſos,</l>
+            <l>Scilicet ex nuiu quam benè ligna Stupent.</l>
+            <closer>
+               <signed>B. D.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="astronomical_treatise">
+            <pb n="1" facs="tcp:39138:4"/>
+            <head>
+               <hi>EXAMEN Aſtronomiae Carolinae,</hi> T. S. <hi>OR,</hi> Short Animadverſions upon Mr. <hi>Thomas Streets</hi> Aſtronomi<g ref="char:EOLhyphen"/>cal-Tables of the Coelestiall Motions.</head>
+            <div n="1" type="section">
+               <head>
+                  <hi>SECT. I.</hi> Wherein is proved (by the indubitable Obſervations of the best, and moſt learned Astronomers) that Mr. <hi>Tho. Streets</hi> Tables of the Suns true place are not conſenta<g ref="char:EOLhyphen"/>neous to the Heavens, but very conſiderably differ from the most accurate Obſervations of all Ages.</head>
+               <p>FIrſt, for the better confirmation and clearing the truth of our Aſſertion, We ſhall remove ſome Obſtructions (out of the way of <hi>Tyroes</hi>) about the <hi>Parallax</hi> and <hi>Refrastion</hi> of the Stars, and eſpecially <hi>Venus,</hi> that
+<pb n="2" facs="tcp:39138:5"/>thereby the uncertainty of our Authors Suppoſi<g ref="char:EOLhyphen"/>tions may be the more apparent; and afterwards we ſhall examine his <hi>Tables</hi> of the <hi>Suns place,</hi> and compare them with the moſt accurate Obſervati<g ref="char:EOLhyphen"/>ons of all ages, whereby I ſhall clearly make it ap<g ref="char:EOLhyphen"/>pear that (in ſtead of a further <hi>Restauration</hi> of the <hi>Planetary Motions</hi>) he hath fallen much ſhort of that exactneſs which is required, and already (in a large meaſure) performed by others. And this I ſhall principally prove by the Obſervations of thoſe two excellent Aſtronomers, that noble <hi>Dane Tycho Bra<g ref="char:EOLhyphen"/>he,</hi> and our late worthy Country-man, Mr. <hi>Ed<g ref="char:EOLhyphen"/>ward Wright,</hi> unto whom aſſents, not only the two famous Aſtronomers, <hi>Kepler</hi> and <hi>Longomontanus,</hi> who were contemporary, and his aſſiſtants; but ſince, the learned <hi>Bullialdus, Ricciolus, Eichſtadius, Argol, Gaſſendus, Norwood,</hi> and all other the moſt curious Obſervators, both of this, and other Nati<g ref="char:EOLhyphen"/>ons, except <hi>Thomas Streete</hi> alone, who perhaps will ſtrenuouſly endeavour to ſhelter himſelf under his falſe ſupputation of <hi>Parallaxes,</hi> but that cannot de<g ref="char:EOLhyphen"/>fend him, as we ſhall afterwards ſhew; for the greateſt quantity of the Suns <hi>Parallax</hi> when he is fully freed from <hi>Refractions,</hi> in his Altitude of 45 deg. above the <hi>Horizon</hi> is but 1′.38″. which is ſo inconſiderable a quantity, that neither Mr. <hi>Thomas Streete,</hi> nor any he can procure to aſſiſt him, are able (by the beſt Obſervations they can make) to
+<pb n="3" facs="tcp:39138:5"/>determine it more exactly, though he raſhly (with<g ref="char:EOLhyphen"/>out any ſufficient proof by Obſervations) dimi<g ref="char:EOLhyphen"/>niſheth it to one 12th part of that quantity, which the Noble <hi>Tycho</hi> moſt curiouſly hath experimented from manifold Obſervations made with his large and coſtly <hi>Instruments,</hi> which for excellency was ſuch, as never any Age afforded. All which <hi>Tycho<g ref="char:EOLhyphen"/>nick Obſervations,</hi> of the Suns true place (being faithfully compared with Mr. <hi>Streets Tables,</hi> and my own, I ſhall hereunder inſert. <hi>Ut ex tantâ obſerva<g ref="char:EOLhyphen"/>tionum harmoniâ</hi> (<hi>inquit Longomontanus</hi> lib. 1. Theo<g ref="char:EOLhyphen"/>ric. cap. 2.) <hi>quae in Tychonicis apparet, cum interpola<g ref="char:EOLhyphen"/>tâ at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> hiante veterum diſſonantiâ comparata, posteritas juſtam occaſionem nanciſcatur</hi> D. Tychonis <hi>ſingularem induſtriam hic &amp; ubi<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> gratâ mente agnoſcendi, &amp;c.</hi> And then ſpeaking of the Suns Altitude, he ſhews his great care therein. <hi>Quae autem Altitudines me<g ref="char:EOLhyphen"/>ridianae Solis nunc ex Tychone ſequuntur, duobus &amp; in<g ref="char:EOLhyphen"/>terdum etiam tribus maximis &amp; abſolutiſsimis Qua<g ref="char:EOLhyphen"/>drantibus, et inſuper maximo circulo aequatorio Declina<g ref="char:EOLhyphen"/>tionis Caelitus acceptae, at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> inter ſe limitatae ſunt, adeont (niſi aere aliquando fortaſſis denſiore omnem ſenſibilem errorem excludant, &amp;c.</hi> So that from hence we ſee the admirable care and induſtry of <hi>Tycho</hi> in ma<g ref="char:EOLhyphen"/>king his Obſervations. And beſides I think Mr. <hi>Streete</hi> will grant this, That never any Aſtronomer, before, or ſince his time, was ever ſo compleatly furniſhed with ſuch rare, exquiſite, and truly admi<g ref="char:EOLhyphen"/>red
+<pb n="4" facs="tcp:39138:6"/>Inſtruments, as the ſaid noble Lord of <hi>Knud<g ref="char:EOLhyphen"/>ſtrop, T. B.</hi> who expended no leſs then 200 <hi>Atti<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Talents of Silver</hi> towards the Reſtauration of Aſtro<g ref="char:EOLhyphen"/>nomy, and rectifying the true place of the Sun. But would our <hi>Antagonist</hi> but acknowledge that which the noble <hi>Tycho,</hi> the learned <hi>Kepler, Longo<g ref="char:EOLhyphen"/>montanus, Gaſſendus, Bullialdus,</hi> and all our modern Aſtronomers have obſerved about the Refraction of the Stars, he would never ſeek for any helps from the ♂ <g ref="char:Moon">☽</g>♀ to aſſiſt him, ſeeing it was ſo near the Weſtern <hi>Horizon,</hi> and <hi>Venus</hi> in leſs altitude then the <hi>Sun;</hi> ſo that (if any truth may be had from thoſe moſt excellent Obſervations that ſeverall <hi>Aſtronomers</hi> have made) ſhe muſt then of neceſſity be ſubject to a greater Refraction then the Sun, though Mr. <hi>Street</hi> would perſwade the contrary in the 25 Page of his <hi>Appendix</hi>) and the rather in re<g ref="char:EOLhyphen"/>ſpect of the <hi>Craſſitude</hi> of the <hi>aereall-Sphaere.</hi> But this our <hi>Authour</hi> never ſo much as conſiders, or at leaſt, not according to the Rules of Art, as may be ſeen in the 76 Page of his Book, where (upon this account) he hath quite loſt himſelf, and ſo is not able to perform what (peradventure) he might otherwiſe intend. But becauſe he may ſtill con<g ref="char:EOLhyphen"/>tend about his doings herein (though to as little purpoſe as to throw ſtones againſt the wind), I ſhall here (before I come to Demonſtration) ſhew from many ſelect Obſervations, that the <hi>Refraction</hi>
+                  <pb n="5" facs="tcp:39138:6"/>of <hi>Venus</hi> from the <hi>Sun,</hi> might then (in all proba<g ref="char:EOLhyphen"/>bility) be as great, or greater, then the Parallax of <hi>Venus</hi> from the <hi>Sun.</hi> But if our Authour will not underſtand the truth thereof, what better Cha<g ref="char:EOLhyphen"/>racter can we give him, then that of <hi>Horace</hi> to one in the like caſe?</p>
+               <q>— Hic nigerest, hunc tu Romane caveto.</q>
+               <p>Now albeit the Refraction of the Stars is (in ſome meaſure) demonſtrated in the <hi>Opticks</hi> of <hi>Vitellion, Alhazen,</hi> and others; yet it was never diſcover'd to any purpoſe, untill the riſing of that great Lumina<g ref="char:EOLhyphen"/>ry, <hi>Tycho Brahe,</hi> ſo that without controverſie thoſe Obſervations of the Suns true place made by the ancient Aſtronomers, muſt needs come much ſhort of truth (which may be a good <hi>Monitum</hi> to Mr. <hi>T. S.</hi>) all which at this day we find fully made good by the collation of manifold Obſervations; and therefore ſaith <hi>Kepler</hi> in <hi>Aſtron. Optic.</hi> pag. 143. <hi>Magno Astronomiae damno in inveſtigatione motûs ſolis &amp; Aequinoctiorum factum est, ut Refractiones à Veterl<g ref="char:EOLhyphen"/>bus fuerint ueglectae, &amp;c.</hi> Yet <hi>Pliny</hi> gives us a clear Teſtimony of the truth thereof, <hi>Lib.</hi> 11. <hi>Hiſt. Nat. Cap.</hi> 13. in theſe words, <hi>Quâ nam ratione; cum ſolis exortu umbra illa hebetatrix ſub terra eſſe debeat, ſemel jam acciderit, ut in occaſu Luna deficeret, utro<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſuper ter<g ref="char:EOLhyphen"/>ram conſpicuo ſidere.</hi> Hence we may ſee (by this ancient Obſervation) that both the <hi>Sun</hi> and <hi>Moon,</hi>
+                  <pb n="6" facs="tcp:39138:7"/>when they was in oppoſite places, diſtant one from another, a perfect Semicircle; yet for their <hi>Refracti<g ref="char:EOLhyphen"/>on</hi> above the <hi>Horizon,</hi> they appeared of a far leſſer diſtance.</p>
+               <p>The like experiment we have of latter years, ſet down by <hi>Maeſtin</hi> in <hi>Theſibus<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Ecclipſibus,</hi> publiſhed Anno 1596. whoſe words in <hi>Theſ.</hi> 55. are theſe. Anno 1590. <hi>die</hi> 7. <hi>Julii nos hic Tubingae, ſolis centro ſupra Horizontem emergente, vidimus Lunam ab austro aliquot digitis jam deficientem, duobus penè gradibus ele<g ref="char:EOLhyphen"/>vatam: &amp; contra Lunae centro ſub occaſum deſcendente, notavimus ſolis ſupra ortum duorum graduum altitudi<g ref="char:EOLhyphen"/>nem.</hi> Which in plain Engliſh infers thus much (Mr. <hi>Streete</hi>) that when the Centre of the Sun aroſe above the Horizon, he ſaw the <hi>Moon</hi> almoſt two degrees high, Eclipſed ſome Digits on her South ſide. And contrariwiſe, when the Centre of the Moon touched the Weſtern Horizon; He noted the Suns Altitude above the Eaſt, two degrees, and yet the Moon did ſet before the middle of the Eclipſe. Hence we may conclude, that the <hi>Re<g ref="char:EOLhyphen"/>fraction</hi> of each <hi>Luminary</hi> was near a degree and half.</p>
+               <p>Again, the <hi>Lantgrave</hi> of <hi>Heſſen</hi> (as it's mentio<g ref="char:EOLhyphen"/>ned, <hi>fol.</hi> 22. <hi>Epiſt. Tychonis</hi>) did on a certain night moſt exactly obſerve <hi>Venus</hi> to ſtand ſtill (as it were) upon the Horizon, for the ſpace of a quarter of an hour, and then ſuddenly to vaniſh. <hi>Kepl. in Aſtro. Optic.</hi>
+               </p>
+               <pb n="7" facs="tcp:39138:7"/>
+               <p>
+                  <hi>Bernard Walter in Libro Obſervationum,</hi> teſtifies the ſame of <hi>Venus,</hi> and the other Stars, affirming <hi>Aſtra ſaepè ſupra Horizontem apparere, cùmreverâ ſint infra.</hi> The Stars oftentimes appear above the Horizon, when they are truly beneath it.</p>
+               <p>But let us hear further what the ſame Authour ſaith, <hi>Anno</hi> 1489. <hi>die</hi> 6. <hi>Martii circa occaſum ſo<g ref="char:EOLhyphen"/>lis, dum videlicet in medio Caelieſſet</hi> 25. ♊ <hi>ſol per ar<g ref="char:EOLhyphen"/>millas in</hi> 25°. 15′ ♓. <hi>Venus per alium circulum, Eclip<g ref="char:EOLhyphen"/>ticâ ſolem dividente, in</hi> 27°. 15′ ♈. <hi>inventa eſt: Sed circulo latitudinis ſolem mediante, utiſolet circa Hori<g ref="char:EOLhyphen"/>zontem, in alio loco, puta in</hi> 25°. 30′ ♈. <hi>reperta eſt.</hi> Again, <hi>Die</hi> 7. <hi>Martii, ſol per aſpectum armillarum</hi> 26°. 15′ ♓. <hi>Venus ex Ecliptica</hi> 28°. 15 ♈. <hi>Ex circulo latitudinis</hi> 27°. 38′ ♈. And the reaſon thereof you may have in theſe words, <hi>Item, ne diutius lectu<g ref="char:EOLhyphen"/>ros lateat quomodo proceſſerim, quodlocus Veneris quaſi in eodem inſtanti adeò difformitèr repertus ſit; est not an<g ref="char:EOLhyphen"/>dum, quod circa horizontem aſtra apparent propter radios fractos ſuper horizontem, cum ſecundum veritatem ſint ſub eo.</hi> Here our Authour (by theſe Obſervations) plainly ſhews, That the place of <hi>Venus</hi> taken in the <hi>Horizon,</hi> is ſenſibly differing from her place in the Heavens, as he carefully experimented (obſerve it Mr. <hi>Streete</hi>) ſo that he thence concludes, That the Stars (in reſpect of their fracted raies) do appear above the <hi>Horizon,</hi> when, according to their true places, they are under it. Now I hope there are
+<pb n="8" facs="tcp:39138:8"/>none that will deny the truth hereof, but ſuch as take pleaſure in their own fooliſh fancy, who very aptly verifie that ſaying, <hi>Contra omnes ſapere diſipere est.</hi>
+               </p>
+               <p>Let us here further ſee what the learned <hi>Maeſtlin</hi> hath obſerved about the <hi>Refraction</hi> of the Stars, and eſpecially <hi>Venus. Si noſtris per Radium Aſtronomicum factis Obſervationibus fides ſit habenda, non rarò inve<g ref="char:EOLhyphen"/>nimus veneris ſupra Horizontem altioris diſtantiam à ſole juxta Horizontem poſito, eſſe notabiliter minorem, quam ſi eodem die ejuſdem distantia à ſole altiore, &amp; è vaporibus magis libero caperetur. Ergò ſolis altitudo per vapores, etiam per aeris ſuper ficiem altior justo apparuit. Unde &amp; ipſum, &amp; alias ſtellas ſimiliter ſupra Horizon<g ref="char:EOLhyphen"/>tem apparere poſse, cùm infra adhuc ſint, pro impoſsibili non habemus, ſed certò concludimus.</hi>
+               </p>
+               <p>Moreover in the year 1596. the <hi>Hollanders</hi> na<g ref="char:EOLhyphen"/>vigating along the <hi>Northern Ocean</hi> into <hi>Nova Zemb<g ref="char:EOLhyphen"/>la,</hi> to ſeek a paſſage into the <hi>Oriental Seas,</hi> they tell us, That being under the <hi>Elevation</hi> of the <hi>Pole</hi> 76 deg. oppreſſed by a night three moneths long, in a frozen-Sea, they concluded (according to Aſtro<g ref="char:EOLhyphen"/>nomical Principles) having taken their farewel of the <hi>Sun, Nov.</hi> 3. he would not return again to their View before the 11th. of <hi>Febr.</hi> 1597. but yet it ſo hapned (through the craſſitude of the aereal Sphaere) that upon the 24 of <hi>Jan.</hi> (17 dayes be<g ref="char:EOLhyphen"/>fore the due time) they ſaw the ſupreme margine
+<pb n="9" facs="tcp:39138:8"/>of the <hi>Sun</hi> begin to appear in the very point of the <hi>Meridian,</hi> ſo that his <hi>Refraction</hi> above the <hi>Horizon</hi> was above 3. degrees and a half. <hi>Kepl. Paral. in Vitell. p.</hi> 138.</p>
+               <p>The learned <hi>Hortenſius</hi> (ſpeaking of the uncer<g ref="char:EOLhyphen"/>tainty of <hi>Tychoe</hi>'s <hi>Obſervations</hi> of the place of <hi>Venus,</hi> by reaſon of her <hi>Refraction,</hi> to which ſhe is com<g ref="char:EOLhyphen"/>monly ſubject) lets not to affirm, That the true di<g ref="char:EOLhyphen"/>ſtance of <hi>Venus</hi> from the <hi>Sun,</hi> or from the fixed Stars, can in no wiſe be determin'd exactly. <hi>Sed pro variâ Altitudine, nunc majorem nunc minorem diverſi<g ref="char:EOLhyphen"/>tatem inducit, &amp; maximè circa Aequinoctia &amp; Solſti<g ref="char:EOLhyphen"/>tium Hybernum, &amp;c.</hi> which is excellently proved by the Obſervations of <hi>T. B.</hi>
+               </p>
+               <p>Alſo in the year of Chriſt 1632. in the Moneth of <hi>Febr.</hi> Capt. <hi>T. J.</hi> Wintering in an <hi>Iſland</hi> of <hi>America,</hi> found the apparent time of the Sun riſing 20 min. ſooner then the true ought to have been, as may be ſeen in the <hi>Deſcription</hi> of his Voyage, <hi>Pag.</hi> 64. whence it follows, That the <hi>Suns Refraction</hi> was almoſt 3 degrees.</p>
+               <p>Laſtly, <hi>Tycho Brahe</hi> ſo diligently obſerved the juſt quantity of Refractions in the place where he lived, viz. <hi>Huenna,</hi> that we may certainly con<g ref="char:EOLhyphen"/>clude, That the Stars are continually refracted in and about the <hi>Horizon,</hi> and yet not in all places alike, (as <hi>Tycho</hi> experimented after he came into <hi>Bohemia</hi>) for (as I ſhewed in my <hi>Almanack</hi> 1663.)
+<pb n="10" facs="tcp:39138:9"/>in montanus places the Refraction is ſmall, and ſometime almoſt nothing; in places near the Sea, it is, in a manner, equall at all times of the year; and ſometime again the <hi>Refraction</hi> is great and <hi>prodigious,</hi> which accidentally may happen in thoſe maritime parts, where the Ayr is groſs and thick; for the thicker and fuller of <hi>Vapours</hi> the Ayr is about the Horizon, the more it refracts the Star. So that from hence we may conclude, That the juſt quan<g ref="char:EOLhyphen"/>tity of the <hi>Refraction</hi> of the Stars (which Aſtrono<g ref="char:EOLhyphen"/>mers continually obſerve) cannot at all times be determin'd with certainty, eſpecially when they are in, or near unto the <hi>Horizon.</hi>
+               </p>
+               <p>Now from theſe Obſervations of learned able Mathematitians, we may clearly ſee how prodigi<g ref="char:EOLhyphen"/>ouſly the Stars are oftentimes refracted; and eſ<g ref="char:EOLhyphen"/>pecially <hi>Venus,</hi> when ſhe is near the Horizon, as we ſhall afterward evince by indubitable <hi>Experi<g ref="char:EOLhyphen"/>ments,</hi> and <hi>Demonſtration Geometricall,</hi> whereby the judicious may ſee how dubious and uncertain a thing it is, to determine the <hi>Suns Horizontal</hi> Parallax to be only one fourth part of a minute.</p>
+               <p>Yet I am not ignorant of <hi>Kelper</hi>'s Opinion, <hi>Epit. Astron pag.</hi> 479. where he ſaith, That if the Paral<g ref="char:EOLhyphen"/>lax of the Sun be 3 min. the Parallax of <hi>Mars</hi> in his neareſt proximity to the Earth muſt be greater. <hi>Atque Obſervavi ego</hi> (ſaith he) <hi>Parallaxin Martis ne<g ref="char:EOLhyphen"/>quaquam eſſe ſenſibilem.</hi> Whence he imagineth,
+<pb n="11" facs="tcp:39138:9"/>That the Suns diſtance from the Earth is more then 1200 <hi>Semidiameters.</hi> Again <hi>pag.</hi> 886. he ſuppoſ<g ref="char:EOLhyphen"/>eth the Parallax of <hi>Saturn</hi> to be 8″, <hi>Jupiter</hi> 15″, the Sun one min. or 60″, the Parallax of <hi>Venus</hi> in her <hi>Conjunction</hi> with the <hi>Sun</hi> about 4 min. o. ſec. and <hi>Mars</hi> in <hi>Oppoſition</hi> of the <hi>Sun</hi> 2 min. 30′. ſec. which (ſaith he) is ſcarce obſervable for the explication and circumradiancy of his beams. But this is but one Doctors Opinion, however I ſhall conclude with <hi>Kepler,</hi> That the Suns diſtance is greater then 1200 <hi>Semidiameters,</hi> namely 1460. Whereas <hi>Pto<g ref="char:EOLhyphen"/>lomy</hi> makes it but 1165. <hi>Copernicus</hi> 1142. <hi>Tycho</hi> 1150. but our <hi>Antagoniſt</hi> increaſeth it to 13755. Semid. and ſo maketh the Globe of the Sun to be 258309 times greater then the whole Earth.</p>
+               <q>Parturiunt montes, naſcetur ridiculus mus.</q>
+               <p>Whereas <hi>Ptolomy, Albategnius,</hi> and <hi>Alfraganus</hi> made it but 166 times greater, and <hi>Tycho</hi> only 139 times. But I perceive our <hi>Antagoniſt</hi> would be ſingular, and counted <hi>abſolutum Astronomiae Restauratorem,</hi> but the contrary will appear, and that <hi>(abſque ſummâ curâ, &amp; diligentia adhibitâ)</hi> he hath moſt erroneouſly ſtated the dimenſions of the <hi>Caeleſtial Sphaeres,</hi> not duely conſidering ſome Obſervations, and wilfully rejecting others; for, <hi>ut quoties is antecedentium Aſtronomorum Obſervationes placitis ſuis non congruere cernit, toties eas limitet, castiget, emendet, rejiciat, aut
+<pb n="12" facs="tcp:39138:10"/>malè invertat.</hi> But why could not <hi>Tycho</hi> (who was ſo curious and diligent) diſcover theſe rare ſecrets after he had made ſo many ſingular experiments about the <hi>Parallax</hi> and <hi>Refraction</hi> of the Stars? Cer<g ref="char:EOLhyphen"/>tainly had there been juſt cauſe, or any real Obſer<g ref="char:EOLhyphen"/>vations of his, that would have made for theſe new ſuppoſitions, he would have ſeen it before our <hi>Anta<g ref="char:EOLhyphen"/>tagonist,</hi> but no ſuch thing being by him (or by any other) perceived, neither ſufficiently proved by ♂ ☉ ♀ Anno 1639. we can eſteem his invention to be only, <hi>Purum figmentum, ex falſis, incertiſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> obſerva<g ref="char:EOLhyphen"/>tionibus natum.</hi>
+               </p>
+               <p>But to make a juſt Experiment of Refractions, and of the inequality and different degrees thereof; Take an empty <hi>Baſon,</hi> or other <hi>Veſſel,</hi> and in the bot<g ref="char:EOLhyphen"/>tome thereof place a piece of <hi>Silver,</hi> ſo that it cannot remove, then recede ſo far from the ſame till you juſt loſe the ſight of the <hi>Silver,</hi> which done, let one poure in fair Water into the <hi>Baſon;</hi> and though you exactly keep your place of ſtanding, yet ſhall you ſee the Silver refracted, and appear all to your eye; and the further you fill the <hi>Baſon</hi> with Wa<g ref="char:EOLhyphen"/>ter, the more refracted, and the higher above the brim of the <hi>Baſon</hi> will the Silver appear. So that by this experiment you may ſee the reaſon of <hi>Re<g ref="char:EOLhyphen"/>fractions,</hi> and after what manner they may be aug<g ref="char:EOLhyphen"/>mented or diminiſhed, according to the craſſitude of the <hi>medium,</hi> or <hi>areal Sphaere.</hi>
+               </p>
+               <pb n="13" facs="tcp:39138:10"/>
+               <p>Again, if you place two pieces of <hi>Silver</hi> in the ſame <hi>Baſon,</hi> one above another, and then go ſo far from the ſame till you ſee the Centre of the one agree exactly with the Centre of the other, then (as before) fill the <hi>Baſon</hi> with water, and you will plainly ſee the Centre of the lower piece of <hi>Silver</hi> much more <hi>refracted</hi> then the other; which abſo<g ref="char:EOLhyphen"/>lutely overthrows that <hi>in-artificial Diſcourſe</hi> of <hi>T.S.</hi> about <hi>Refractions,</hi> as we ſhall ſee afterwards.</p>
+               <p>If then this be granted, (as it muſt of neceſſity) it will follow, that the nearer any Star is to the Ho<g ref="char:EOLhyphen"/>rizon, the more it will be refracted in reſpect of the craſſitude of the Ayr, and multiplicity of the va<g ref="char:EOLhyphen"/>pours upon, and near to, the Superficies of the <hi>Earth.</hi>
+               </p>
+               <p>Having now preſented you with the former un<g ref="char:EOLhyphen"/>deniable Obſervations of moſt learned Aſtrono<g ref="char:EOLhyphen"/>mers, we ſhall next (for the information of Mr. <hi>Thomas Streete</hi>) propound the Demonſtration fol<g ref="char:EOLhyphen"/>lowing (agreeable to the former experiment of two pieces of Siver put into a <hi>Baſon</hi>) whereby he may clearly ſee (if he be not wilfully blind) that the Re<g ref="char:EOLhyphen"/>fraction of ♀ (in her ♂ with ☉, anno 1639.) was greater then the <hi>Refraction</hi> of the <hi>Sun.</hi>
+               </p>
+               <p>In this Diagram, let <hi>A</hi> denote the Centre of the Earth, <hi>A Y</hi> its Semidiameter, <hi>D M N</hi> the extream limit of the aereall Sphaere, <hi>X E</hi> part of the Orb of ♀, and <hi>T S P</hi> part of the Orb of the Sun.</p>
+               <figure>
+                  <figDesc>astronomical diagram</figDesc>
+               </figure>
+               <p>But let us hear the ſenſleſs Diſcourſe of our <hi>Antagonist</hi> about Refractions. <q rend="inline">
+                     <hi>Let the Planet (ſaith he) be free from the Suns contact, and grant as
+<pb n="15" facs="tcp:39138:11"/>great a Refraction as any man can deſire; I ſay that the ſpace between them can onely be diminiſhed (in like manner as the Suns vertical Diameter in his riſing or ſet<g ref="char:EOLhyphen"/>ting ſeemeth leſs then his Horizontal) but no Contact, &amp;c.</hi>
+                  </q>
+               </p>
+               <p>Admit (as before) that Υ be the eye of the Ob<g ref="char:EOLhyphen"/>ſervator, <hi>D</hi> the place of the <hi>Sun</hi> when he is elevated 45 degrees, and free from <hi>Refractions, T</hi> the place of the Planet in the Horizon; I ſay the line of viſion τ σ paſſeth directly towards the eye, till it fall ob<g ref="char:EOLhyphen"/>lique on the <hi>aereall Sphaere</hi> in σ, from whence it is refracted upward from σ to α, ſo that the centre of the Star appearing in <hi>B</hi> to the eye of the Obſervator, the viſible diſtance of the Centre thereof from the Centre of the <hi>Sun</hi> muſt in this ſcituation be equal to <hi>B D,</hi> which is much leſs then their true diſtance <hi>T D:</hi> Hence I conclude, That if the <hi>Sun</hi> be in the Horizon at <hi>O,</hi> and <hi>Venus</hi> at the point λ, (16′ de<g ref="char:EOLhyphen"/>preſſed) and ſo no Contact as in that reſpect; yet becauſe the Centre of ♀ in λ is more refracted then the Centre of the <hi>Sun</hi> above the Horizon at <hi>O</hi> (as appears by the former <hi>Demonſtration</hi> and <hi>experi<g ref="char:EOLhyphen"/>ments</hi>) there muſt neceſſarily be a Contact, contra<g ref="char:EOLhyphen"/>ry to Mr. <hi>Streets</hi> ſuppoſition.</p>
+               <p>Beſides we read in Authours, (as you may ſee above) That ♀, more then any of the other Planets, hath been very prodigiouſly refracted in and about the Horizon, yet we ſtand not here in any need of
+<pb n="16" facs="tcp:39138:12"/>ſuch Refractions; all that's required, (in that re<g ref="char:EOLhyphen"/>markable ☌ ☉ ♀, 1639.) is not above 3′ or 4 min. which though ſmall, yet it's ſufficient to defend our aſſertion: however, though the juſt quantity there<g ref="char:EOLhyphen"/>of may be drawn into queſtion, yet it appears (as I ſaid) but meer raſhneſs, <hi>ob rationes praealligatas,</hi> to determine the juſt quantity of the Suns Parallax from that <hi>Conjunction,</hi> as I formerly hinted in my <hi>Monitum ad Aſtronomos,</hi> much leſs to make their <hi>Refrastions</hi> equal. Therefore what can I ſay fur<g ref="char:EOLhyphen"/>ther, but with <hi>Horace.</hi>
+               </p>
+               <q>Jubeo ſtultum eſſe liben èr.</q>
+               <p>One of the greateſt Arguments Mr. <hi>Streete</hi> uſeth is from the Obſervations of Mr. <hi>Horrox,</hi> whoſe Writings I never ſaw; but he tells us, <hi>Page</hi> 12. <hi>A.C.</hi> That comparing his Obſervations with others, he hath ſufficiently proved, that the greateſt <hi>Parallax</hi> of ♂ in ☍ ☉ is ſcarce at all obſervable, and never amounting fully to a minute, by which, and his ex<g ref="char:EOLhyphen"/>cellent <hi>Teleſcope Obſervations of</hi> ♀ <hi>in the</hi> ☉, with her apparent Diameter at that time, and other good Arguments, he determines the Suns <hi>Horizontall Parallax</hi> to be one fourth part of a minute, and no more.</p>
+               <p>Firſt, I would gladly know how he can make it appear, that the <hi>Parallax</hi> of <hi>Mars</hi> in his <hi>Acronical-Phaſes,</hi> is never ſo great as one minute; but I be<g ref="char:EOLhyphen"/>lieve
+<pb n="17" facs="tcp:39138:12"/>we ſhall find him as ſhort in this, as in the reſt, when we conſider that the greateſt quantity there<g ref="char:EOLhyphen"/>of (according to our limitation) contains only 2 or 3 min. but I need not ſtand to prove the <hi>invalidity</hi> of his <hi>aſſertion</hi> in this particular, in regard it is of the ſame nature with the former, and cannot (as I conceive) be determin'd exactly for the Reaſons above given about <hi>Refractions;</hi> and the rather in re<g ref="char:EOLhyphen"/>ſpect of its ſmall quantity. Neither can our <hi>Anta<g ref="char:EOLhyphen"/>goniſt</hi> be ignorant, that the beſt Tables in being are not ſo well reſtored, but that the place of ♀ obſer<g ref="char:EOLhyphen"/>ved, varies ſometime from them a 5th. and 6th. part of a degree; nay, ſometime a 4th. part, as may be experimented from his own Tables, and therefore if there was no other Arguments, yet this were ſufficient to ſhew how uncertain, yea, and impoſſible a thing it is to determine a buſineſs of ſuch weight and importance from the <hi>Conjunction</hi> of the <hi>Sun</hi> and <hi>Venus:</hi> for though the Parallax of ♀ from ☉ in Altitude be ſix min. yet (as is ſaid) the Refraction of ♀ <hi>ſupra</hi> ☉ ſomething diminiſhing it, there can be left no ground at all for his ſuppo<g ref="char:EOLhyphen"/>ſitions, as may in due time more fully appear by our future Endeavours.</p>
+               <p>Neither can the apparent Diameter of ♀ in ☉ ob<g ref="char:EOLhyphen"/>ſerved in that eminent Conjunction, <hi>anno</hi> 1639. ſtand him in any ſtead at all, for according to his own words, <hi>Pag.</hi> 76. the <hi>Semidiameter</hi> of <hi>Venus</hi>
+                  <pb n="18" facs="tcp:39138:13"/>was obſerved about 39.′ which better agrees with our limitation, then with his own; for if the <hi>Semi<g ref="char:EOLhyphen"/>diameter</hi> of ♀ in her mean diſtance be 12″. accor<g ref="char:EOLhyphen"/>ding to <hi>AB,</hi> (which is proved by <hi>Teleſcope Obſerva<g ref="char:EOLhyphen"/>tions</hi>) the apparent Semidiameter of ♀ in her ☌ ☉, muſt be about 45.″ as may thus appear.</p>
+               <p>In the ☌ ☉ ♀ anno 1639. the diſtance of the Earth from the Sun was (according to <hi>A B</hi>) 98370. and the diſtance of ♀ from ☉, 72048, hence the diſtance of ♀ from the Earth 26322. of which part, (making the apparent Semid. of ♀ <hi>in mediâ distantiâ,</hi> 12.″) we limit the true Semid. of ♀ 5. 82 equal to <hi>B C.</hi>
+               </p>
+               <figure>
+                  <figDesc>astronomical diagram</figDesc>
+               </figure>
+               <p>I could here produce a Cloud of Witneſſes againſt our <hi>Authour</hi> in this particular, and ſhew him, that 'tis altogether impoſſible to determine the Suns Horizontal <hi>Parallax</hi> to be juſt 15.″ and no more; but I ſhall now for brevity ſake forbear, and the rather, becauſe I am fully aſſured that it cannot be decided by no former Obſervations, no not by the moſt exact that ever was made; and therefore I ſhall reſt upon <hi>Tycho</hi>'s Obſervations, as the moſt exact, and give you the agreement of Mr. <hi>Streets Tables</hi> and my own therewith.</p>
+               <pb facs="tcp:39138:14"/>
+               <p>
+                  <table>
+                     <head>Autumnal and three Vernall Aequinoxes, obſerved at Alexandrio in <hi>Aegypt</hi> by <hi>Hipparchus.</hi>
+                     </head>
+                     <row>
+                        <cell>
+                           <hi>obit. Alexandri</hi>
+                        </cell>
+                        <cell>☉ <hi>Street</hi> s d ′ ″</cell>
+                        <cell>
+                           <hi>Dif.</hi> ′ ″</cell>
+                        <cell>☉ <hi>Wing.</hi> s d ′ ″</cell>
+                        <cell>
+                           <hi>Dif.</hi> ′ ″</cell>
+                     </row>
+                     <row>
+                        <cell>Meſor. 30 ☉ c. ☉</cell>
+                        <cell>♎ 0. 37. 52</cell>
+                        <cell>37 + 52</cell>
+                        <cell>♎ 0. 27. 34</cell>
+                        <cell>27 + 34</cell>
+                     </row>
+                     <row>
+                        <cell>Interc. 1 Manè</cell>
+                        <cell>♎ 0. 24. 16</cell>
+                        <cell>24 + 16</cell>
+                        <cell>♎ 0. 13. 52</cell>
+                        <cell>13 + 52</cell>
+                     </row>
+                     <row>
+                        <cell>Interc. 1 Merid.</cell>
+                        <cell>♎ 0. 24. 43</cell>
+                        <cell>24 + 43</cell>
+                        <cell>♎ 0. 14. 19</cell>
+                        <cell>14 + 19</cell>
+                     </row>
+                     <row>
+                        <cell>Interc. 3 Med. no</cell>
+                        <cell>♎ 0. 14. 40</cell>
+                        <cell>14 + 40</cell>
+                        <cell>♎ 0. 4. 9</cell>
+                        <cell>4 + 9</cell>
+                     </row>
+                     <row>
+                        <cell>Interc. 4 manè</cell>
+                        <cell>♎ 0. 15. 8</cell>
+                        <cell>15 + 8</cell>
+                        <cell>♎ 0. 4. 35</cell>
+                        <cell>4 + 35</cell>
+                     </row>
+                     <row>
+                        <cell>Inter. 4 Veſperi</cell>
+                        <cell>♎ 0. 1. 50</cell>
+                        <cell>1 + 30</cell>
+                        <cell>♍ 29. 50. 55</cell>
+                        <cell>9 + 5</cell>
+                     </row>
+                     <row>
+                        <cell>Mechir 27 manè</cell>
+                        <cell>♓ 29. 55. 5</cell>
+                        <cell>4 − 55</cell>
+                        <cell>♓ 29. 56. 43</cell>
+                        <cell>3 + 17</cell>
+                     </row>
+                     <row>
+                        <cell>Mech. 29 med. no</cell>
+                        <cell>♓ 29. 51. 4</cell>
+                        <cell>8 − 56</cell>
+                        <cell>♓ 29. 49. 29</cell>
+                        <cell>10 + 31</cell>
+                     </row>
+                     <row>
+                        <cell>Pham. 1 in ☉ c. ☉</cell>
+                        <cell>♓ 29. 15. 3</cell>
+                        <cell>8 − 57</cell>
+                        <cell>♓ 29. 52. 40</cell>
+                        <cell>7 + 20</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>Some of Tycho's Obſervations made at <hi>Uraniburg.</hi>
+                     </head>
+                     <row>
+                        <cell>
+                           <hi>Mar.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Loc.</hi> ☉ <hi>obſ.</hi>
+                        </cell>
+                        <cell>☉ <hi>Street</hi>
+                        </cell>
+                        <cell>
+                           <hi>Dif.</hi>
+                        </cell>
+                        <cell>☉ <hi>Wing.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Dif.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. 14</cell>
+                        <cell>♈ 3. 17. 40</cell>
+                        <cell>♈ 3. 13. 12</cell>
+                        <cell>4 + 28</cell>
+                        <cell>♈ 3. 18. 6</cell>
+                        <cell>0 + 26</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. 11</cell>
+                        <cell>♈ 1. 3 35</cell>
+                        <cell>♈ 1. 0. 15</cell>
+                        <cell>5 + 20</cell>
+                        <cell>♈ 1. 5. 13</cell>
+                        <cell>0 − 22</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. 11</cell>
+                        <cell>♈ 0. 37. 0</cell>
+                        <cell>♈ 0. 31. 31</cell>
+                        <cell>5 + 29</cell>
+                        <cell>♈ 0. 36. 27</cell>
+                        <cell>0 − 33</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. 12</cell>
+                        <cell>♈ 1. 21. 30</cell>
+                        <cell>♈ 1. 16. 28</cell>
+                        <cell>5 + 2</cell>
+                        <cell>♈ 1. 21. 23</cell>
+                        <cell>0 − 7</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. 11</cell>
+                        <cell>♈ 0. 53. 5</cell>
+                        <cell>♈ 0. 47. 42</cell>
+                        <cell>5 + 23</cell>
+                        <cell>♈ 0. 52. 37</cell>
+                        <cell>0 − 28</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. 11</cell>
+                        <cell>♈ 0. 37. 10</cell>
+                        <cell>♈ 0. 33. 19</cell>
+                        <cell>3 + 51</cell>
+                        <cell>♈ 0. 38. 15</cell>
+                        <cell>1 + 5</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. 10</cell>
+                        <cell>♓ 29. 54. 43</cell>
+                        <cell>♓ 29. 50. 8</cell>
+                        <cell>4 + 35</cell>
+                        <cell>♓ 29. 55. 5</cell>
+                        <cell>0 + 22</cell>
+                     </row>
+                     <row>
+                        <cell>7. 10</cell>
+                        <cell>♓ 29. 56. 20</cell>
+                        <cell>♓ 29. 51. 56</cell>
+                        <cell>4 + 24</cell>
+                        <cell>♓ 29. 56. 53</cell>
+                        <cell>0 + 33</cell>
+                     </row>
+                     <row>
+                        <cell cols="6">
+                           <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>pt. —</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. 13</cell>
+                        <cell>♍ 29. 36. 0</cell>
+                        <cell>♍ 29. 38. 49</cell>
+                        <cell>2 + 49</cell>
+                        <cell>♍ 29. 35. 20</cell>
+                        <cell>0 − 40</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. 12</cell>
+                        <cell>♍ 29. 21. 57</cell>
+                        <cell>♍ 29. 24. 32</cell>
+                        <cell>2 + 53</cell>
+                        <cell>♍ 29. 21. 2</cell>
+                        <cell>0 − 55</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. 13</cell>
+                        <cell>♍ 29. 51. 45</cell>
+                        <cell>♍ 29. 55. 55</cell>
+                        <cell>4 + 10</cell>
+                        <cell>♍ 29. 51. 24</cell>
+                        <cell>0 − 21</cell>
+                     </row>
+                     <row>
+                        <cell>8. 12</cell>
+                        <cell>♍ 29. 23. 30</cell>
+                        <cell>♍ 29. 26. 21</cell>
+                        <cell>2 + 51</cell>
+                        <cell>♍ 29. 23. 57</cell>
+                        <cell>0 + 27</cell>
+                     </row>
+                     <row>
+                        <cell>0. 12</cell>
+                        <cell>♍ 28. 53. 30</cell>
+                        <cell>♍ 28. 57. 47</cell>
+                        <cell>4 + 17</cell>
+                        <cell>♍ 28. 54. 18</cell>
+                        <cell>0 + 48</cell>
+                     </row>
+                     <row>
+                        <cell>2. 10</cell>
+                        <cell>♍ 27. 26. 15</cell>
+                        <cell>♍ 27. 30. 22</cell>
+                        <cell>4 + 7</cell>
+                        <cell>♍ 27. 26. 54</cell>
+                        <cell>0 + 39</cell>
+                     </row>
+                     <row>
+                        <cell>4. 13</cell>
+                        <cell>♍ 29. 56. 30</cell>
+                        <cell>♍ 29. 58. 31</cell>
+                        <cell>2 + 1</cell>
+                        <cell>♍ 29. 55. 1</cell>
+                        <cell>1 − 29</cell>
+                     </row>
+                     <row>
+                        <cell>6. 14</cell>
+                        <cell>♎ 1. 24. 10</cell>
+                        <cell>♎ 1. 27. 21</cell>
+                        <cell>3 + 11</cell>
+                        <cell>♎ 1. 24. 22</cell>
+                        <cell>0 + 12</cell>
+                     </row>
+                  </table>
+               </p>
+               <pb facs="tcp:39138:14"/>
+               <p>
+                  <table>
+                     <head>Nineteen Obſervations of the Suns true place, made a <hi>London</hi> by Mr. <hi>Edward Wright;</hi> compared with his <hi>Aſtronomiâ Carolinâ,</hi> and my <hi>Aſtronomia Britannica.</hi>
+                     </head>
+                     <row>
+                        <cell>
+                           <hi>Time at Lon<g ref="char:EOLhyphen"/>don</hi>
+                        </cell>
+                        <cell>
+                           <hi>Loc.</hi> ☉ <hi>obſ.</hi> S O ′ ″</cell>
+                        <cell>☉ <hi>Street.</hi> S O ′ ″</cell>
+                        <cell>
+                           <hi>Dif.</hi> ′ ″</cell>
+                        <cell>☉ <hi>Wing.</hi> S O ′ ″</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>1594 <hi>july</hi> 25</cell>
+                        <cell>♌ 11. 29. 52</cell>
+                        <cell>♌ 11. 32. 6</cell>
+                        <cell>2 + 4</cell>
+                        <cell>♌ 11. 30 50</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>1594 <hi>octo.</hi> 18</cell>
+                        <cell>♏ 4. 42. 42</cell>
+                        <cell>♏ 4. 44. 45</cell>
+                        <cell>2 + 3</cell>
+                        <cell>♏ 4. 41. 32</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>1595 <hi>april</hi> 8</cell>
+                        <cell>♈ 27. 54. 16</cell>
+                        <cell>♈ 27. 51. 13</cell>
+                        <cell>3 − 3</cell>
+                        <cell>♈ 27. 54. 36</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>1595 <hi>ſept.</hi> 11</cell>
+                        <cell>♍ 27. 44. 27</cell>
+                        <cell>♍ 27. 48. 9</cell>
+                        <cell>3 + 42</cell>
+                        <cell>♍ 27. 54. 7</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>1596 <hi>mar.</hi> 13</cell>
+                        <cell>♈ 3. 10. 48</cell>
+                        <cell>♈ 3. 6. 39</cell>
+                        <cell>4 − 9</cell>
+                        <cell>♈ 3. 11. 14</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>1596 <hi>apr.</hi> 24</cell>
+                        <cell>♉ 14. 9. 40</cell>
+                        <cell>♉ 14. 5. 31</cell>
+                        <cell>4 − 9</cell>
+                        <cell>♉ 14. 8. 0</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>1596 <hi>aug.</hi> 10</cell>
+                        <cell>♌ 27. 24. 24</cell>
+                        <cell>♌ 27. 24. 59</cell>
+                        <cell>0 + 35</cell>
+                        <cell>♌ 27. 23. 11</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>1597 <hi>mar.</hi> 11</cell>
+                        <cell>♈ 0. 57. 48</cell>
+                        <cell>♈ 0. 53. 21</cell>
+                        <cell>4 − 27</cell>
+                        <cell>♈ 0. 58. 21</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>1597 <hi>mar.</hi> 12</cell>
+                        <cell>♈ 1. 57. 55</cell>
+                        <cell>♈ 1. 52. 39</cell>
+                        <cell>5 − 16</cell>
+                        <cell>♈ 1. 57. 35</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>1597 <hi>mar.</hi> 13</cell>
+                        <cell>♈ 2. 56. 58</cell>
+                        <cell>♈ 2. 51. 56</cell>
+                        <cell>5 − 2</cell>
+                        <cell>♈ 2. 56. 50</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>1597 <hi>már.</hi> 14</cell>
+                        <cell>♈ 3. 56. 0</cell>
+                        <cell>♈ 3. 51. 12</cell>
+                        <cell>4 − 48</cell>
+                        <cell>♈ 3. 56. 3</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>1597 <hi>apr.</hi> 30</cell>
+                        <cell>♉ 19. 39. 22</cell>
+                        <cell>♉ 19. 38. 16</cell>
+                        <cell>1 − 6</cell>
+                        <cell>♉ 19. 40. 42</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>1597 <hi>may</hi> 2</cell>
+                        <cell>♉ 21. 35. 48</cell>
+                        <cell>♉ 21. 33. 46</cell>
+                        <cell>2 − 2</cell>
+                        <cell>♉ 21. 36. 2</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>1597 <hi>july</hi> 24</cell>
+                        <cell>♌ 10. 48. 8</cell>
+                        <cell>♌ 10. 50. 34</cell>
+                        <cell>2 + 26</cell>
+                        <cell>♌ 10. 49. 14</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>1597 <hi>aug.</hi> 9</cell>
+                        <cell>♌ 26. 11. 36</cell>
+                        <cell>♌ 26. 13. 20</cell>
+                        <cell>1 + 44</cell>
+                        <cell>♌ 26. 11. 21</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>1597 <hi>ſept.</hi> 22</cell>
+                        <cell>♎ 9. 3. 26</cell>
+                        <cell>♎ 9. 8. 39</cell>
+                        <cell>5 + 13</cell>
+                        <cell>♎ 9. 5. 3</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>1597 <hi>ſept.</hi> 30</cell>
+                        <cell>♎ 16. 59. 57</cell>
+                        <cell>♎ 17. 3. 56</cell>
+                        <cell>3 + 39</cell>
+                        <cell>♎ 17. 0. 12</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>1597 <hi>octo.</hi> 6</cell>
+                        <cell>♎ 22. 38. 13</cell>
+                        <cell>♎ 23. 1. 52</cell>
+                        <cell>3 + 39</cell>
+                        <cell>♎ 22. 58. 8</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>1597 <hi>octo.</hi> 12</cell>
+                        <cell>♎ 28. 56. 34</cell>
+                        <cell>♎ 29. 1. 2</cell>
+                        <cell>4 + 28</cell>
+                        <cell>♎ 28. 57. 24</cell>
+                        <cell>
+                           <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>In this Synopſis is inſerted the place of ☉, as it's ſet down by Mr. <hi>Wright, pag.</hi> 310. <hi>&amp; ſeq.</hi> the former 7. whereof are ſupputated from Mr. <hi>Streets Tables,</hi> and the reſt are taken according to his own
+<pb n="22" facs="tcp:39138:15"/>Calculation, as I find it ſet down in his <hi>Almanack,</hi> 1663. But our <hi>Antagoniſt</hi> may (perhaps) ſay, that becauſe we do not admit of ſo great a Parallax in ☉ as Mr. <hi>Wright</hi> did, therefore this place ought to be corrected, and made agreeable to the true De<g ref="char:EOLhyphen"/>clination. To this I anſwer, That the difference is ſo exceeding ſmall, the errour will be inſenſible. But how near his Tables agree with Obſervation, the Reader may here ſee.</p>
+            </div>
+            <div n="2" type="section">
+               <head>
+                  <hi>SECT. II.</hi> An Examination of Mr. <hi>Streets</hi> Tables of Eclipſes.</head>
+               <p>HAving now made it appear by the Teſtimony of moſt accurate Obſervations, that our <hi>Antagoniſt</hi> hath much fail'd in the true place of the <hi>Sun,</hi> of which, I hope, the judicious are fully ſa<g ref="char:EOLhyphen"/>tisfied: I ſhall next ſhew the Reader ſome of the groſs Errours he hath committed in his <hi>Doctrine</hi> of <hi>Eclipſes;</hi> and to that end, I ſhall exhibite all thoſe curious Obſervations made by the noble and lear<g ref="char:EOLhyphen"/>ned <hi>Tycho Brahe,</hi> which without controverſie, are the moſt exact that any Age ever before afforded.</p>
+               <pb n="23" facs="tcp:39138:15"/>
+               <p>
+                  <table>
+                     <head>A Synopſis of <hi>21.</hi> Lunar Eclipſes obſerved at <hi>Vrani<g ref="char:EOLhyphen"/>burg,</hi> by noble <hi>Tycho Brahe.</hi>
+                     </head>
+                     <row>
+                        <cell>
+                           <hi>Temp. ap. modii Eclipſis <g ref="char:V">Ʋ</g>ranib.</hi>
+                        </cell>
+                        <cell>☉ <hi>Street.</hi> s d ′ ″</cell>
+                        <cell>
+                           <g ref="char:Moon">☽</g> 
+                           <hi>Orb: Str:</hi> s d ′ ″</cell>
+                        <cell>
+                           <hi>Dif.</hi> ′ ″</cell>
+                        <cell>
+                           <hi>Di. Wi.</hi> ′ ″</cell>
+                     </row>
+                     <row>
+                        <cell>d h ′</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>1573 Decem. 8. 8. 3</cell>
+                        <cell>♐ 26. 50. 3</cell>
+                        <cell>♊ 26. 53. 59</cell>
+                        <cell>3 + 31</cell>
+                        <cell>1 + 55</cell>
+                     </row>
+                     <row>
+                        <cell>1576 Octo. 7. 11. 25</cell>
+                        <cell>♎ 24. 33. 52</cell>
+                        <cell>♈ 44. 28. 9</cell>
+                        <cell>7 − 0</cell>
+                        <cell>0 + 33</cell>
+                     </row>
+                     <row>
+                        <cell>1577 April 2. 8. 50</cell>
+                        <cell>♈ 22. 40. 38</cell>
+                        <cell>♎ 22. 42. 32</cell>
+                        <cell>2 + 19</cell>
+                        <cell>2 + 31</cell>
+                     </row>
+                     <row>
+                        <cell>1577 Sept. 26. 13. 3.</cell>
+                        <cell>♎ 13. 27. 18</cell>
+                        <cell>♈ 13. 20. 3</cell>
+                        <cell>6 − 48</cell>
+                        <cell>1 − 7</cell>
+                     </row>
+                     <row>
+                        <cell>1578 Sept. 15. 13. 24</cell>
+                        <cell>♎ 2. 21. 56</cell>
+                        <cell>♈ 2. 23. 53</cell>
+                        <cell>3 + 57</cell>
+                        <cell>0 + 15</cell>
+                     </row>
+                     <row>
+                        <cell>1580 Jan. 31. 10. 10</cell>
+                        <cell>♒ 21. 24. 27</cell>
+                        <cell>♌ 21. 17. 0</cell>
+                        <cell>8 − 17</cell>
+                        <cell>1 + 21</cell>
+                     </row>
+                     <row>
+                        <cell>1581 Jan. 19. 10. 0</cell>
+                        <cell>♒ 10. 1. 2</cell>
+                        <cell>♌ 9. 59. 45</cell>
+                        <cell>0 − 40</cell>
+                        <cell>1 + 12</cell>
+                     </row>
+                     <row>
+                        <cell>1581 July 15. 17. 0</cell>
+                        <cell>♌ 2. 44. 52</cell>
+                        <cell>♒ 2. 48. 41</cell>
+                        <cell>4 − 54</cell>
+                        <cell>0 + 17</cell>
+                     </row>
+                     <row>
+                        <cell>1584 Nov. 7. 13. 9</cell>
+                        <cell>♏ 25. 51: 18</cell>
+                        <cell>♉ 25. 52. 37</cell>
+                        <cell>1 + 47</cell>
+                        <cell>3 − 7</cell>
+                     </row>
+                     <row>
+                        <cell>1587 Sept. 6. 9. 30</cell>
+                        <cell>♍ 23. 11. 36</cell>
+                        <cell>♓ 23. 17. 4</cell>
+                        <cell>4 + 7</cell>
+                        <cell>1 + 9</cell>
+                     </row>
+                     <row>
+                        <cell>1588 Mar. 2. 15: 2</cell>
+                        <cell>♓ 22. 44. 8</cell>
+                        <cell>♍ 22. 44. 46</cell>
+                        <cell>1 20</cell>
+                        <cell>0 + 30</cell>
+                     </row>
+                     <row>
+                        <cell>1590 Dec. 30. 7. 0</cell>
+                        <cell>♑ 19. 6. 19</cell>
+                        <cell>♋ 19. 12. 46</cell>
+                        <cell>5 + 6</cell>
+                        <cell>2 + 15</cell>
+                     </row>
+                     <row>
+                        <cell>1592 June 14. 10. 20</cell>
+                        <cell>♋ 3. 14. 37</cell>
+                        <cell>♑ 3. 4. 45</cell>
+                        <cell>8 − 39</cell>
+                        <cell>2 + 11</cell>
+                     </row>
+                     <row>
+                        <cell>1592 Dec. 8. 7. 41</cell>
+                        <cell>♐ 27. 12. 45</cell>
+                        <cell>♊ 27. 15. 23</cell>
+                        <cell>4 + 49</cell>
+                        <cell>0 − 9</cell>
+                     </row>
+                     <row>
+                        <cell>1594 Octo. 15. 19. 16</cell>
+                        <cell>♏ 5. 31. 41</cell>
+                        <cell>♉ 5. 27. 3</cell>
+                        <cell>5 − 59</cell>
+                        <cell>0 + 26</cell>
+                     </row>
+                     <row>
+                        <cell>1595 April 13: 16. 30</cell>
+                        <cell>♉ 3. 20. 48</cell>
+                        <cell>♏ 3. 18. 35</cell>
+                        <cell>1 − 56</cell>
+                        <cell>3 29</cell>
+                     </row>
+                     <row>
+                        <cell>1595 Octo. 7. 20. 29</cell>
+                        <cell>♎ 24. 19. 48</cell>
+                        <cell>♈ 24. 11. 59</cell>
+                        <cell>7 − 27</cell>
+                        <cell>1 − 38</cell>
+                     </row>
+                     <row>
+                        <cell>1596 April 2. 9. 25</cell>
+                        <cell>♈ 23. 5. 28</cell>
+                        <cell>♎ 23. 11. 56</cell>
+                        <cell>8 + 39</cell>
+                        <cell>1 + 29</cell>
+                     </row>
+                     <row>
+                        <cell>1598 Febr. 10. 18. 7</cell>
+                        <cell>♓ 2. 27. 6</cell>
+                        <cell>♍ 2. 20. 55</cell>
+                        <cell>7 − 18</cell>
+                        <cell>3 + 1</cell>
+                     </row>
+                     <row>
+                        <cell>1598 Aug. 6. 7. 37</cell>
+                        <cell>♌ 23, 22. 13</cell>
+                        <cell>♒ 23. 26. 6</cell>
+                        <cell>2 + 50</cell>
+                        <cell>0 + 59</cell>
+                     </row>
+                     <row>
+                        <cell>1599 Jan 30. 17. 56</cell>
+                        <cell>♒ 21. 6. 45</cell>
+                        <cell>♌ 21. 6. 51</cell>
+                        <cell>0 + 40</cell>
+                        <cell>2 + 24</cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="24" facs="tcp:39138:16"/>
+               <p>
+                  <hi>Hae</hi> 21. <hi>Eclipſes Lunares</hi> (ſaith Longomontanus, Lib. 2. Theoric) <hi>maximâ exparte in Huenâ, binis, ter<g ref="char:EOLhyphen"/>nis, &amp; quaternis interdum accuratiſſimis organis</hi> Ty<g ref="char:EOLhyphen"/>chonis Brahe; <hi>tum quoad initia, tum exitus, tum pha<g ref="char:EOLhyphen"/>ſes reliquas notabiles, quantum quidem Caelum permiſe<g ref="char:EOLhyphen"/>rat, eâ diligentiâ acquiſitae ſunt, &amp; ad veram</hi> ☍ <hi>Lumi<g ref="char:EOLhyphen"/>narium reductae, quae nunquam ab anteceſſoribus praestita eſt.</hi>
+               </p>
+               <p>Although the true place of the <hi>Sun</hi> cannot (for the reaſon above given) be determin'd ſo exactly, but that it may ſtill be called into queſtion by the future attempts of others, yet here (I hope) Mr. <hi>Street</hi> will have the modeſty to acknowledge the Errours of his Tables in this particular, if not, I ſhall contend no further, for I believe nothing will ſatisfie. Yet upon his <hi>ſubmiſſion,</hi> I will (if he re<g ref="char:EOLhyphen"/>queſt it) ſhew him away, whereby he may yet cor<g ref="char:EOLhyphen"/>rect, and make his Tables more conſentaneous to the Heavens. But what ſhould I trouble my ſelf, when we ſee the <hi>Gentleman</hi> ſo ſelf-conceited, and proud of his own doings, which gives occaſion for ſome to think that he is not in a capacity to learn, unleſs it be to <hi>mock and jeere,</hi> which he is now <hi>Doctor</hi> at, but I ſhall leave him here, and wiſh his Errours had not been ſo evident and clear, yea, to his very beſt Friends.</p>
+               <p>
+                  <hi>Turpe est Doctori cum culpa redarguit ipſum.</hi>
+               </p>
+            </div>
+            <div n="3" type="section">
+               <pb n="25" facs="tcp:39138:16"/>
+               <head>
+                  <hi>SECT. III.</hi> Wherein Mr. <hi>Streets</hi> Tables of the Praeceſsion of the Aequinoctial Points and Places of the fixed Stars, are briefly examin'd.</head>
+               <p>NExt in contradiction (as it were) of all the <hi>Obſervations</hi> that <hi>Astronomers</hi> have made of the places of the fixed Stars, for the ſpace of 1900. years before <hi>Tycho;</hi> he hath moſt apparently fail'd of that due exactneſs that is, and ought to be had: for if we look backward from <hi>Tycho</hi> to the time of <hi>Hipparchus</hi> and <hi>Timocharis,</hi> we may not only in their times, but in all the intermediate ages to this preſent, perceive his <hi>Tables</hi> to ſwerve conti<g ref="char:EOLhyphen"/>nually from truth. And now, to the end, we may ſee the verity of our <hi>Aſſertion</hi> made manifeſt and apparent to the Eye of every one; I ſhall here pre<g ref="char:EOLhyphen"/>ſent my Reader with the following <hi>Synopſis.</hi>
+               </p>
+               <pb n="26" facs="tcp:39138:17"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>Varii Authores.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Anni Chriſt.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Locum Stella<g ref="char:EOLhyphen"/>rum Obſerv.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Di. St. deg. m.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Di. W. deg: m.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Timocharis</cell>
+                        <cell>A. 284</cell>
+                        <cell>
+                           <hi>Siica</hi> ♍. 21.59. ♍</cell>
+                        <cell>1 + 9</cell>
+                        <cell>0 − 16</cell>
+                     </row>
+                     <row>
+                        <cell>Hipparchus</cell>
+                        <cell>C. 120</cell>
+                        <cell>
+                           <hi>Siica</hi> ♍. 23.59. ♍</cell>
+                        <cell>1 + 21</cell>
+                        <cell>0 + 3</cell>
+                     </row>
+                     <row>
+                        <cell>Menelaus</cell>
+                        <cell>
+                           <hi>Poſt Chriſtum.</hi> 99</cell>
+                        <cell>
+                           <hi>Siica</hi> ♍. 26.15. ♍</cell>
+                        <cell>1 + 58</cell>
+                        <cell>0 + 57</cell>
+                     </row>
+                     <row>
+                        <cell>Ptolomie</cell>
+                        <cell>
+                           <hi>Poſt Chriſtum.</hi> 139</cell>
+                        <cell>
+                           <hi>Siica</hi> ♍. 26.43. ♍</cell>
+                        <cell>2 + 15</cell>
+                        <cell>1 + 3</cell>
+                     </row>
+                     <row>
+                        <cell>Ptolomie</cell>
+                        <cell>
+                           <hi>Poſt Chriſtum.</hi> 139</cell>
+                        <cell>
+                           <hi>Cor</hi> ♌. 2.30. ♌</cell>
+                        <cell>2 + 16</cell>
+                        <cell>1 + 17</cell>
+                     </row>
+                     <row>
+                        <cell>Albategnius</cell>
+                        <cell>
+                           <hi>Poſt Chriſtum.</hi> 879</cell>
+                        <cell>
+                           <hi>Cor</hi> ♌. 14.5. ♌</cell>
+                        <cell>0 + 33</cell>
+                        <cell>0 + 4</cell>
+                     </row>
+                     <row>
+                        <cell>Azophus</cell>
+                        <cell>
+                           <hi>Poſt Chriſtum.</hi> 937</cell>
+                        <cell>
+                           <hi>Cor</hi> ♌. 15.12. ♌</cell>
+                        <cell>0 + 13</cell>
+                        <cell>0 − 14</cell>
+                     </row>
+                     <row>
+                        <cell>Ebenneſophim</cell>
+                        <cell>
+                           <hi>Poſt Chriſtum.</hi> 1364</cell>
+                        <cell>
+                           <hi>Cor</hi> ♌. 20.40. ♌</cell>
+                        <cell>0 + 26</cell>
+                        <cell>0 + 17</cell>
+                     </row>
+                     <row>
+                        <cell>Walther</cell>
+                        <cell>
+                           <hi>Poſt Chriſtum.</hi> 1504</cell>
+                        <cell>
+                           <hi>Spica</hi> ♍. 16.40. ♎</cell>
+                        <cell>0 + 17</cell>
+                        <cell>0 + 14</cell>
+                     </row>
+                     <row>
+                        <cell>Verner</cell>
+                        <cell>
+                           <hi>Poſt Chriſtum.</hi> 1514</cell>
+                        <cell>
+                           <hi>Spica</hi> ♍. 16.53. ♎</cell>
+                        <cell>0 + 12</cell>
+                        <cell>0 + 9</cell>
+                     </row>
+                     <row>
+                        <cell>Tycho Brahe</cell>
+                        <cell>
+                           <hi>Poſt Chriſtum.</hi> 1601</cell>
+                        <cell>
+                           <hi>Spica</hi> ♍. 18.16. ♎</cell>
+                        <cell>0 + 0</cell>
+                        <cell>0 0</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Here you may ſee the Errours and Defects of Mr. <hi>Streets Tables</hi> of the places of the fixed Stars unmasked, and laid open to the View of every Reader, inſomuch that the judicious do not a little admire, that (after his whole eight years labour) he ſhould ſo far miſcarry in a buſineſs of this kind, as not to heed either the Obſervations themſelves, or that excellent rectification of their places that our modern Aſtronomers from thence have made,<note place="margin">About a year ſince there came to my hands a Letter, from an ingenious Mathematitian, wherein (among other things) were theſe words; <q rend="inline">There was never any Aſtronomer, either of this, or other Nati<g ref="char:EOLhyphen"/>ons, that ever ſo erroneouſly ſtated the places of the fixed Stars, as Mr. <hi>Street</hi> hath done, making their places much greater in Longitude, then Obſervations will war<g ref="char:EOLhyphen"/>rant, &amp;c.</q>
+                  </note> and yet verily I am ſo charitable, as to think his intentions were good, and that he had not the leaſt thoughts to rob the divine <hi>Ura<g ref="char:EOLhyphen"/>nia</hi>
+                  <pb n="27" facs="tcp:39138:17"/>of her comely Furniture, but rather to deck her in better Feathers; however, he may yet do well (for his Credit-ſake) to ſhew ſome Rea<g ref="char:EOLhyphen"/>ſons for his doings, and tell his Readers for what cauſe it is, that he ſo much diſſents both from the Heavens, and all other Aſtronomers, which if he pleaſe publickly to communicate, we ſhall be ready to gratifie him for his pains, according to the utmoſt of his de<g ref="char:EOLhyphen"/>merit; in the mean time, let him but ſeriouſly per<g ref="char:EOLhyphen"/>uſe the Obſervations of that ever honoured <hi>Dane, Tycho Brahe,</hi> and diligently compare them with the ancient and modern Obſervations, and he ſhall find the <hi>progreſſion</hi> of the <hi>fixed Stars</hi> (equal to the <hi>praeceſſion</hi> of the <hi>Equinoctial</hi>) to be annually 51 Se<g ref="char:EOLhyphen"/>conds, or thereabouts; which quantity the learned <hi>Kepler</hi> moſt wittily retains in his <hi>Rudolphine-Tables:</hi> neither doth thoſe learned Aſtronomers, <hi>Lansberg, Argol, Ricciolus, Bullialdus,</hi> or any other late Wri<g ref="char:EOLhyphen"/>ters, much diſſent from the ſame quantity; and yet now at laſt Mr. <hi>Tho. Street</hi> (as it were in <hi>Oppoſi<g ref="char:EOLhyphen"/>tion</hi> to all theſe worthy men, yea, the <hi>Obſervations</hi> themſelves) makes their annuall Progreſſion onely 48 Seconds.</p>
+               <pb n="28" facs="tcp:39138:18"/>
+               <q>
+                  <l>Quod ſi dificiant Vires, audacia certe, </l>
+                  <l>Laus erit.</l>
+               </q>
+               <p>But let me tell Mr. <hi>Street,</hi> that the Progreſſion of the fixed Stars in Longitude is (before his endea<g ref="char:EOLhyphen"/>vours) ſo accurately rectified by ſundry learned and judicious <hi>Artiſts</hi> of ſundry Nations, that it is but meer raſhneſs in him (or his adherents) to diſ<g ref="char:EOLhyphen"/>ſent from that quantity of motion ſo well already eſtabliſhed by Obſervations, inſomuch that to in<g ref="char:EOLhyphen"/>troduce <hi>Novelties</hi> into <hi>Astronomie,</hi> when there is neither reaſon, nor ſufficient Arguments convin<g ref="char:EOLhyphen"/>cing us of the neceſſity of the attempt, is (<hi>Mag<g ref="char:EOLhyphen"/>num et manifestum inſaniae genus</hi>) the greateſt folly in the World, and ought not to be paſſed over in ſi<g ref="char:EOLhyphen"/>lence. <hi>Si proximus deliquit, commone eum errati.</hi>
+               </p>
+            </div>
+            <div n="4" type="section">
+               <head>
+                  <hi>SECT. IV.</hi> Wherein is ſhewed, that if the <hi>Aphelions</hi> and <hi>Nodes</hi> of the Planets are alway fixed, it's then altogether im<g ref="char:EOLhyphen"/>poſſible for Aſtronomers to determine exactly the true places of the Planets in all Ages.</head>
+               <p>OUr <hi>Antagoniſt</hi> (contrary to the Obſervations of all Aſtronomers, both ancient and mo<g ref="char:EOLhyphen"/>dern) hath fixed the <hi>Aphelions</hi> and <hi>Nodes</hi> of the Planets under the eighth Sphaere, and ſo ties them
+<pb n="29" facs="tcp:39138:18"/>alway, to one certain and determinate point there<g ref="char:EOLhyphen"/>in, which is ſo far from Reaſon and Obſervations, that manifold Errours and Incongrueties do ariſe thereby, as we ſhall afterward ſhew. In the mean time I muſt tell him, there is no reall or ſufficient ground for his Suppoſitions, ſeeing daily experi<g ref="char:EOLhyphen"/>ence evinceth the contrary, and tells us, (and all others that have eyes) that their motions have no ſuch dependance upon the eighth Orbe, (which is immoveable, and infinitely removed above them) but are moved by an inward moving force, (which doubtleſs is the great and glorious body of the Sun, placed in the Centre of their <hi>Vortex,</hi> there being reſt in the Superficies, or Sphaere of the fixed Stars, and motion in the intermediate parts of the <hi>Planetary Syſteme</hi>) which appears more clearly in the <hi>Moon,</hi> whoſe <hi>Apogaeon</hi> and <hi>Nodes</hi> (in reſpect of the celerity of her motion about the Earth) are obſer<g ref="char:EOLhyphen"/>ved to alter their places daily, not being tyed to any extraneous point whatſoever. But what need I ſtand to give any further Reaſons, in regard the moſt ancient Obſervations, and alſo thoſe in this preſent Age clearly confute this <hi>erroneous Suppoſi<g ref="char:EOLhyphen"/>tion,</hi> as all the learned that are converſant in <hi>Cael ſti<g ref="char:EOLhyphen"/>all Obſervations</hi> and <hi>Theories Astronomical,</hi> do well know and obſerve; howbeit, if I ſhould not pro<g ref="char:EOLhyphen"/>duce ſome Obſervations exactly made, and com<g ref="char:EOLhyphen"/>pare them with his Tables, he will (I believe) nei<g ref="char:EOLhyphen"/>ther
+<pb n="30" facs="tcp:39138:19"/>underſtand the truth, nor ſee his <hi>Errours</hi> and <hi>Miſtakes,</hi> though already obvious and apparent enough to the more learned and judicious: there<g ref="char:EOLhyphen"/>fore I ſhall here preſent the ingenious <hi>Tyro</hi> with ſuch a ſcale of Obſervations, and compare them with his own Tables, as I think will abſolutely convince him of his Errour in this his moſt great and weighty enterprize.</p>
+               <q>At pulchrum eſt digito monſtrari, &amp; dicier, hic eſt.</q>
+               <p>But becauſe their motions are ſlow, it thence fol<g ref="char:EOLhyphen"/>lows, That if their places be exactly rectified to any certain or determinate point of time, there can be no ſenſible alteration, or errour ariſing in their motions for that age; but let the interval of time be conſiderable, and it will appear, and be as conſpicuous as the <hi>Sun</hi> at noon-day, that they are not fixed, as he alleadgeth, but have their pro<g ref="char:EOLhyphen"/>per motions (ſome more and ſome leſs) as Obſer<g ref="char:EOLhyphen"/>vation do manifeſt, to which all our late learned and moſt induſtrious Aſtronomers do unani<g ref="char:EOLhyphen"/>mouſly conſent and agree. And this may excel<g ref="char:EOLhyphen"/>lently be proved by <hi>Obſervations</hi> of <hi>Jupiter,</hi> whoſe Aphelionis obſerved by all Aſtronomers, to move far more ſlowly then any of the other Planets; but if (according to Mr. <hi>Streetes Suppoſition</hi>) we make it equal to the progreſſion of the fixed Stars, we can<g ref="char:EOLhyphen"/>not then (by the beſt Calculations we can from
+<pb n="31" facs="tcp:39138:19"/>thence deduce) come to obtain his place exactly, either in preceeding or ſucceeding Ages. But that I may avoid prolixity, I ſhall now exhibite ſuch Obſervations (though not many in number) whoſe truth and certainty are ſo conſpicuous to every one, that (without diſpute) they cannot be queſtion'd by him, or any other.</p>
+               <p>Firſt, I ſhall produce an Obſervation of <hi>Saturn</hi> made by the ancient <hi>Aſſyrians</hi> or <hi>Egyptians</hi> in the year from <hi>Nabonaſſar</hi> 519. upon the 14 day of the Moneth <hi>Tybi,</hi> at ſix in the Evening, (which our <hi>Author</hi> mentions, <hi>pag.</hi> 104. <hi>A. C.</hi>) at which time ♄ was exactly in Conjunction with the following Star in the left Winge of the <hi>Virgin,</hi> but was more Southward then the <hi>Star, two Digits, or five min.</hi> in reſpect of Latitude: <hi>Ptol. Lib.</hi> 11. <hi>Cap.</hi> 7. <hi>Magni Operis.</hi>
+               </p>
+               <p>According to Mr. <hi>Streetes Tables,</hi> the Star wasin 6 deg. 58′ 30″ ♍, which (if true) ſhould alſo be the place of <hi>Saturn;</hi> but you ſhall find by his own Calculation, that the place of ♄ then was in 7 deg. 16′ 50″ ♍, differing from truth 18 min. 20 ſec. in Longitude, whereas my Tables in <hi>A. B.</hi> agree to 4 ſec. giving the place of ♄ in 8 deg. 57′ 1″ ♍, and the place of the Star in 8 deg. 56′ 5″ ♍, &amp;c.</p>
+               <p>Secondly, In the 83 year from the death of <hi>Alexander,</hi> and 18 day of the Moneth <hi>Epiphi,</hi> in
+<pb n="32" facs="tcp:39138:20"/>the morning, the Star of <hi>Jupiter</hi> was ſeen to cover or hide the <hi>South Aſſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>llus.</hi> This was <hi>anno ante Chriſtum</hi> 241. <hi>Septemb.</hi> 4. at two hours 30′ <hi>manè,</hi> in reſpect of the Meridian of <hi>London. Ptol. Lib.</hi> 11. <hi>Cap.</hi> 3. <hi>Magni Operis Astronomici.</hi>
+               </p>
+               <p>But our <hi>Antagonist</hi> (being willing to ſave his <hi>Credit,</hi> and <hi>Cheat</hi> the World with his doings) hath not produced this famous <hi>Obſervation,</hi> nor ſo much as mention'd it in any of his Writings (which doubtleſs was becauſe he ſaw it impoſſible to make his <hi>Tabl's</hi> agree thereto); therefore to undeceive his Readers, I ſhall here give you the Calcula<g ref="char:EOLhyphen"/>tion thereof from his own Tables.</p>
+               <pb n="33" facs="tcp:39138:20"/>
+               <p>
+                  <table>
+                     <head>Calculus loci ♃ ex Tabb. <hi>Thomae Streete.</hi>
+                     </head>
+                     <row>
+                        <cell> </cell>
+                        <cell>S 0 ′ ″</cell>
+                        <cell>
+                           <hi>Log. diſt.</hi> ♃ à</cell>
+                        <cell>☉—5.72072</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Anno Chri.</hi> 1</cell>
+                        <cell>0. 13. 54. 30</cell>
+                        <cell>
+                           <hi>Log. diſt.</hi> ☉ à</cell>
+                        <cell>Terra—5.00039</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sub.</hi> 300</cell>
+                        <cell>3. 14. 52. 30</cell>
+                        <cell>0 ′ ″</cell>
+                        <cell>—</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ante Ch.</hi> 300</cell>
+                        <cell>8, 29. 2. 0</cell>
+                        <cell>
+                           <hi>tang.</hi> 79. 13. 11</cell>
+                        <cell>10.72033</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Adde</hi> 40</cell>
+                        <cell>4. 13. 59. 0</cell>
+                        <cell>0 ′ ″</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Adde</hi> 19</cell>
+                        <cell>7. 6. 34. 47</cell>
+                        <cell>
+                           <hi>R. tang.</hi> 34. 13. 11</cell>
+                        <cell>9.83257</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>September</hi>
+                        </cell>
+                        <cell>20. 11. 29</cell>
+                        <cell>
+                           <hi>tang.</hi> 34. 30. 13</cell>
+                        <cell>9.83719</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Dies</hi> 4</cell>
+                        <cell>19. 59</cell>
+                        <cell>
+                           <hi>tang.</hi> 25. 3. 6</cell>
+                        <cell>9.66976</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Hor.</hi> 14</cell>
+                        <cell>2. 54</cell>
+                        <cell>
+                           <hi>Sum.</hi> 59. 33. 19</cell>
+                        <cell>
+                           <hi>Elongatio</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Scrup.</hi> 13</cell>
+                        <cell>3</cell>
+                        <cell>
+                           <hi>Differ.</hi> 9. 27. 7</cell>
+                        <cell>
+                           <hi>Parall.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ano med.</hi> ♃</cell>
+                        <cell>9. 10. 10. 10</cell>
+                        <cell>
+                           <hi>Pro Latitudine</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Long. Helioc.</hi>
+                        </cell>
+                        <cell>2. 25. 22. 10</cell>
+                        <cell>0 ′ ″</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Longit.</hi> ☉</cell>
+                        <cell>5. 4. 22. 36</cell>
+                        <cell>
+                           <hi>Sin.</hi> 69. 0. 26</cell>
+                        <cell>9.97015</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Commntatio</hi>
+                        </cell>
+                        <cell>2. 9 0. 26</cell>
+                        <cell>
+                           <hi>Sin.</hi> 59. 33. 19</cell>
+                        <cell>9.93556</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Parall orb. ad</hi>
+                        </cell>
+                        <cell>9. 27. 7</cell>
+                        <cell>
+                           <hi>Tan.</hi> 0. 23. 53</cell>
+                        <cell>7.84182</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Loeus</hi> ♃ <hi>Sid.</hi>
+                        </cell>
+                        <cell>3. 4. 49. 17</cell>
+                        <cell> </cell>
+                        <cell>17.77738</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Praeceſ. ad</hi>
+                        </cell>
+                        <cell>3. 3. 44</cell>
+                        <cell>
+                           <hi>Trn.</hi> 0. 22. 3</cell>
+                        <cell>7.80723</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Long. Geocen.</hi>
+                        </cell>
+                        <cell>3. 7. 53. 1</cell>
+                        <cell>
+                           <hi>The Latitude of</hi> ♃ <hi>North.</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>The place of the Star at the ſame time was in 8° 34′ 44″ 69, with North Latitude 4′ 0″, ſo that the difference of Longitude was 41 min. 43 ſe<g ref="char:EOLhyphen"/>conds, and of Latitude 18 min. 3 ſeconds, where<g ref="char:EOLhyphen"/>by the diſtance of their Bodies ſhould be 45 min. 28 ſeconds, which is an Errour ſo intollerable, that our <hi>Antagonist</hi> cannot but bluſt to behold it. But if he be not ſatisfied of the truth of the Obſer<g ref="char:EOLhyphen"/>vation, let him read <hi>Ptolomie</hi> at the place above quoted, where he ſhall find theſe words, <hi>Anno</hi> 45. <hi>Dionyſiano, die</hi> 10. <hi>Virginionis, ſed à monte Alexandri
+<pb n="34" facs="tcp:39138:21"/>anno</hi> 83 <hi>menſis Epiphiſecundum Aegyptios die</hi> 18 <hi>manè, viſus est</hi> ♃ <hi>occultare Aſellum Austrinum.</hi>
+               </p>
+               <p>I confeſs, they might be diſtant 7 or 8 min. and yet in reſpect of the <hi>Vibration</hi> of their Beams, <hi>Ju<g ref="char:EOLhyphen"/>piter</hi> might ſeem to <hi>cover</hi> the <hi>Star;</hi> but had the in<g ref="char:EOLhyphen"/>terval of their Bodies been as much in quantity as his Tables do admit of, then certainly the Obſer<g ref="char:EOLhyphen"/>vator would not have ſaid, that the one Star co<g ref="char:EOLhyphen"/>ver'd the other exactly, as the words of <hi>Ptolomy</hi> in<g ref="char:EOLhyphen"/>fer. Beſides, Mr. <hi>Street</hi> might have taken Notice how neer other Tables agree thereto, as <hi>Longo<g ref="char:EOLhyphen"/>montanus, Bullialdus,</hi> and divers others; but he that will make the <hi>Aphelion</hi> of ♃ to be alway diſtant from the firſt Star of <hi>Aries,</hi> 5 fig. 9 deg. 15 min. or indeed any other limited quantity, ſhall never re<g ref="char:EOLhyphen"/>concile, nor make his Tables to agree with the moſt approved Obſervations of all Ages.</p>
+               <p>I could here enumerate many other Obſerva<g ref="char:EOLhyphen"/>tions of the like kind, as that of <hi>Timocharis</hi> men<g ref="char:EOLhyphen"/>tion'd by <hi>Ptolomy, Lib.</hi> 10. <hi>Cap.</hi> 4. who, <hi>Anno ante Chriſtum,</hi> 272. <hi>Octob.</hi> 12. <hi>hor.</hi> 3. <hi>manè,</hi> obſerved <hi>Venus</hi> (at <hi>Alexandrid</hi>) exactly to be contained up<g ref="char:EOLhyphen"/>on the former Star of the 4. in the left Wing of the <hi>Virgin,</hi> whereas his Tables differ above half a degree from truth. But becauſe our <hi>Antagoniſt</hi> may wreſt the Obſervation to his purpoſe, I will give you the words of <hi>Ttolomy,</hi> according to the moſt ancient Latine Copy, fol. 111. <hi>Anno</hi> 13.
+<pb n="35" facs="tcp:39138:21"/>
+                  <hi>Philadolphi interdies</hi> 17. <hi>&amp;</hi> 18. <hi>Meſori, vidit Timo<g ref="char:EOLhyphen"/>charides ſtellam Veneris jam comprehendiſſe ſecundum ve<g ref="char:EOLhyphen"/>ritatem, ſuper ſtellam in extremitate alae Virginis meridi<g ref="char:EOLhyphen"/>onalis.</hi> And <hi>Copernicus</hi> renders the words thus, <hi>Quòd Venus viſa fuit occupaſſe ſtellam,</hi> Lib. 5. Cap. 23. So <hi>Lansbergius, Praecept.</hi> 15. <hi>&amp; fol.</hi> 172. <hi>Ob<g ref="char:EOLhyphen"/>ſervat Astron.</hi> And <hi>Logomontanus, Lib.</hi> 2. <hi>Theoric. Cap.</hi> 19. <hi>Veneris stella cernebatur exactè obſcuraſſe op<g ref="char:EOLhyphen"/>poſitum Vindemiatrici in</hi> 3° 10′. ♍, <hi>ubi &amp; Venerem haeſiſſe obſervatio habet.</hi> Yet I know, <hi>Bullialdus Aſtron. Philolaic. fol.</hi> 350. Thinks it was not abſo<g ref="char:EOLhyphen"/>lutely a central Conjunction. <hi>Cum certum ſit expli<g ref="char:EOLhyphen"/>cationem radiorum Veneris prius ſubtraxiſſe ſtellam oculo, quam interpoſitus fuerit ille Planeta inter fixam &amp; ocu<g ref="char:EOLhyphen"/>lum obſervatoris.</hi> So that we may conclude, That if <hi>Venus</hi> did not exactly cover the Star; yet it was ſo near, that ſhe ſeemed to be contained upon it: And therefore how our <hi>Antagonist</hi> can excuſe his Errour, I cannot tell. But
+<q>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q>
+               </p>
+               <p>Again, for a further confirmation of his Errours, take that ancient Obſervation which <hi>Ptol. Lib.</hi> 10. <hi>Cap.</hi> 9. ſheweth, was made in the 13th year <hi>Secun-Dionyſium, Capric.</hi> 25. <hi>ubi</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. That is, The <hi>morning</hi> Star of <hi>Mars</hi> was ſeen opoſite, or adjoyned to the <hi>Northorn forehead</hi> of the <hi>Scorpion.</hi>
+               </p>
+               <pb n="36" facs="tcp:39138:22"/>
+               <p>This was in the year before <hi>Chriſt</hi> 272. <hi>Jan.</hi> 17. <hi>Hor.</hi> 14.24′. in the meridian of <hi>London:</hi> At which time, we thus compute the place of ♂, according to the Tables of Mr. <hi>Street.</hi>
+               </p>
+               <p>
+                  <table>
+                     <head>
+                        <hi>Calculas loci</hi> ♂ <hi>ex Tabulis</hi> Thomae Street.</head>
+                     <row>
+                        <cell> </cell>
+                        <cell>s ° ′ ″</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Anno Chri.</hi> 1.</cell>
+                        <cell>9. 2. 3. 36</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Sub.</hi> 300</cell>
+                        <cell>6. 1. 6. 0</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ante Ch.</hi> 300</cell>
+                        <cell>3. 0. 57. 36</cell>
+                        <cell>
+                           <hi>Log. diſt.</hi> ♂ à ☉</cell>
+                        <cell>5.205245</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ante Ch.</hi> 300</cell>
+                        <cell>3. 0. 57. 36</cell>
+                        <cell>
+                           <hi>Log. diſt.</hi> 
+                           <gap reason="illegible" resp="#MURP" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> à ☉</cell>
+                        <cell>4.994459</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Anni ad</hi> 20</cell>
+                        <cell>7. 18. 4. 24</cell>
+                        <cell>° ′ ″</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Anni ad</hi> 8</cell>
+                        <cell>3. 1. 13. 46</cell>
+                        <cell>° ′ ″</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Dies</hi> 17</cell>
+                        <cell>8. 54. 31</cell>
+                        <cell>
+                           <hi>tang.</hi> 58. 23. 18</cell>
+                        <cell>10.210786</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Hor.</hi> 14</cell>
+                        <cell>18. 20</cell>
+                        <cell>° ′ ″</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Serup.</hi> 24</cell>
+                        <cell>31</cell>
+                        <cell>
+                           <hi>R. tang.</hi> 13. 23. 18</cell>
+                        <cell>9.376611</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ano. med.</hi> ♂</cell>
+                        <cell>1. 29. 29. 8</cell>
+                        <cell>
+                           <hi>tang.</hi> 59. 55. 57</cell>
+                        <cell>10.237380</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Long. Helioc.</hi>
+                        </cell>
+                        <cell>5. 22. 5. 11</cell>
+                        <cell>
+                           <hi>tang.</hi> 22. 20. 58</cell>
+                        <cell>9.613991</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Longit.</hi> ☉</cell>
+                        <cell>9. 21. 57. 5</cell>
+                        <cell>
+                           <hi>Dif.</hi> 37. 34. 59</cell>
+                        <cell>
+                           <hi>Paralax.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Commutatio</hi>
+                        </cell>
+                        <cell>3. 29. 31. 54</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Parall. ad.</hi>
+                        </cell>
+                        <cell>1. 7. 34. 59</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Long. Geocen.</hi>
+                        </cell>
+                        <cell>6. 29. 40. 10</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>The place of <hi>Borealiſſima frontis</hi> was in 1°. 26′. ♏, ſo that his Tables in this Obſervation fail'd one degree and 46 min. from truth, <hi>a monstrous miſ<g ref="char:EOLhyphen"/>take!</hi>
+               </p>
+               <p>Infinite Obſervations of this kind might be pro<g ref="char:EOLhyphen"/>duced, to ſhew the falſity of our <hi>Authours Tables;</hi> but I ſhall neither trouble my ſelf, or my Readers any further at this time, (I having more weighty
+<pb n="37" facs="tcp:39138:22"/>Affairs continually to imploy my ſelf about) yet I ſhall adviſe him (as one that wiſheth well to his Studies) to write hereafter ſomething to the pur<g ref="char:EOLhyphen"/>poſe, and <hi>more civilly</hi> (as becomes a Servant of the Divine <hi>Urania</hi>) to argue and diſpute Contro<g ref="char:EOLhyphen"/>verſies in Aſtronomy, <hi>inutramque partem;</hi> eſpeci<g ref="char:EOLhyphen"/>ally when the thing is dubious, and ſcarce deter<g ref="char:EOLhyphen"/>minable by the moſt judicious. For my own part, as I love not <hi>buſie Diſputants,</hi> ſo would I adviſe my Readers to beware of their <hi>Sophistical Arguments;</hi> for 'tis no ill adviſe.</p>
+               <q>Percontatorem fugito, namgarulus idem est.</q>
+            </div>
+            <div n="5" type="section">
+               <head>
+                  <hi>SECT. V.</hi> Wherein the Cavil of Mr. <hi>Street</hi> (in his Appendix) againſt our Demonstration of the tranſit of <hi>♀</hi> Subſole, is removed.</head>
+               <p>BUt our <hi>Antagoniſt</hi> being mindfull of the pub<g ref="char:EOLhyphen"/>lique good, would teach us how to calculate the Angle of the viſible way of <hi>Mercury</hi> with the <hi>Ecliptic,</hi> when he paſſeth between the <hi>Earth</hi> and the <hi>Sun,</hi> which method is no other, then what we have formerly made uſe of, as we ſhall hereunder demonſtrate, only in the performance thereof (be<g ref="char:EOLhyphen"/>cauſe it could breed little Errour in the matter aim<g ref="char:EOLhyphen"/>ed at (which is the Arch intercepted between their
+<pb n="38" facs="tcp:39138:23"/>Centres) we took their true diſtance for eaſe of Calculation, whereas, according to exactneſs, we more properly ought to have taken their viſible diſtance at the <hi>Earth.</hi> But had our Demonſtrati<g ref="char:EOLhyphen"/>on been falſe, as our <hi>Antagoniſt</hi> ſeems to infer, which will in no wiſe be granted him; yet in a matter of that nature, where little or no Errour ariſeth thereby, it had been more commendation to keep ſilence: But he forgat that councell.</p>
+               <q>
+                  <l>At melius fuerat nonſcribere, namqué tacere</l>
+                  <l>Tutum ſemper erit —</l>
+               </q>
+               <figure>
+                  <figDesc>astronomical diagram</figDesc>
+               </figure>
+               <p>Then in the Triangle <hi>D A B,</hi> having <hi>D A</hi> 16′ 48″ and <hi>A B</hi> 3′ 3″, we ſhall find the Angle <hi>A D B</hi> 10 deg. 17 min. and conſequently we ſhall from hence find the Arch <hi>B C</hi> greater by a quarter of a min. &amp; <hi>A C</hi> the neareſt <hi>appropinquation</hi> of their <hi>Centres</hi> 3′ 0″, where<g ref="char:EOLhyphen"/>as, taking their <hi>Heliocentric</hi> or true diſtance, (as we there did for eaſe of Calculation) it will be 3′ 2″. Or according to <hi>his Demonſtration</hi> (which comes to the ſame thing) in the Triangle <hi>D P B,</hi> from the ſides <hi>D P</hi> 90°. <hi>P B</hi> 89°. 56′ 57″ with the compre<g ref="char:EOLhyphen"/>hended Angle <hi>B P D</hi> (=<hi>D A</hi>) 0°. 16′ 48″, we ſhall find the Angle <hi>P D B</hi> 79°. 43′, whoſe Com<g ref="char:EOLhyphen"/>plement is the Angle <hi>B D A</hi> 10°. 17′, and conſe<g ref="char:EOLhyphen"/>quently <hi>A C</hi> will be found 3′ 0″, as before.</p>
+               <p>Thus Mr. <hi>Streete</hi> may ſee that our <hi>Demonſtration</hi> is true, only taking the true diſtance for the viſible, the Errour (in the matter aimed at) is only 2″, or a 30th. part of a minute: a thing ſo inconſiderable, that it had been more for his Credit to have ſpar'd his pains in that particular, yet <hi>Homo ſum, humani nihilà me alienum puto.</hi>
+               </p>
+               <p>To let paſs the Errours of our <hi>Antagonist</hi> com<g ref="char:EOLhyphen"/>mitted in ſome of his Demonſtrations in <hi>A C.</hi>
+                  <pb n="40" facs="tcp:39138:24"/>(which are only obvious to the judicious) I could here enumerate many groſs miſtakes by him com<g ref="char:EOLhyphen"/>mitted elſe-where, as that in his Ephemeris 1654, and the falſe Demonſtration he there made about the Aequation of civil dayes; but I am not ſo en<g ref="char:EOLhyphen"/>vious and maligne, as to muſter up the by-paſt ſlips and miſtakes of any Author, eſpecially ſuch as are ingenious and deſerving, though (really) Mr. <hi>Streete</hi> is altogether inexcuſable, but I hope bet<g ref="char:EOLhyphen"/>ter things of him hereafter. In the mean time, let Mr. <hi>Streete</hi> take notice, that I value not his <hi>Bugbeare</hi> at the concluſion of his <hi>Monitum,</hi> where (thinking himſelf too weak to encounter me in a Combate of that nature) he threatens (as thoſe uſe to do that ſet <hi>Scare-Crows</hi>) leſt I hear from <hi>others</hi> as well as from himſelf. But 'tis but Mr. <hi>Streetes</hi> hopes, and <hi>vain deſires</hi> doubtleſs: for I am of Opinion, That no man whatſoever (much leſs thoſe that are Artiſts) will ſo much as attempt any thing of that nature, unleſs they had occaſion. But I ſhall leave our <hi>Antaganiſt</hi> at this time, and refer him for the reſt to my <hi>Astronomia Britannica,</hi> where he ſhall ſee (when publiſhed) ſuch firm and real Demon<g ref="char:EOLhyphen"/>ſtrations both in the <hi>Sphaeric</hi> and <hi>Theoric</hi>-parts of Aſtronomy (if he underſtand <hi>Latine</hi>) as may be uſeful for his Inſtruction, of which I ſhall give him a taſte ſhortly, and ſo bid him farewel.</p>
+               <epigraph>
+                  <q>Aliquod dictum, quod non dictum prius.</q>
+               </epigraph>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="authors_advertisement">
+            <pb n="41" facs="tcp:39138:24"/>
+            <head>
+               <hi>A SHORT</hi> VIEW OF Aſtronomia Britannica.</head>
+            <list>
+               <head>The whole Work conſiſteth of theſe Parts.</head>
+               <item>
+                  <hi>1. LOgiſtica Aſtronomica,</hi> quae continet Doctri<g ref="char:EOLhyphen"/>nam Fractionum Aſtronomicarum integram, tùm in numeris Naturalibus, tùm Artificialibus.</item>
+               <item>
+                  <hi>2. Trigonometria,</hi> ſeu <hi>Doctrina Triangulorum</hi> (analytica &amp; Practica), quae comprehendit dimenſionem omnium Trigonorum, tam planorum, quam Sphaericorum, cujus ope dimenſiones Caeli, Terrae, univerſi<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Mundi or<g ref="char:EOLhyphen"/>bis (modo admirabili) dignoſcantur.</item>
+               <item>
+                  <hi>3. Doctrina Spaerica,</hi> quae exhibet Longitudines, Latitudines, Declinationes, Aſcenſiones, ortus, occaſus Intercapedines, Parallaxeſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſingulorum Planetarum ad cujuſlibet Sphaerae poſitum, &amp; quo pacto Figurae Caeleſtes erigi poſſint.</item>
+               <item>
+                  <hi>4. Theoria Planetarum,</hi> quae Novâ, accuratâ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Methodo Super Hypotheſi Copernicanâ, veros Motus &amp; Configurationes omnium Planetarum computare docet.</item>
+               <pb n="42" facs="tcp:39138:25"/>
+               <item>
+                  <hi>5. Tabulae,</hi> novae <hi>Aſtronomicae,</hi> ex quibus ſingu<g ref="char:EOLhyphen"/>lorum Planetarum Motus, &amp; Luminarium Eclipſes, mirâ promptitudine Colligantur.</item>
+            </list>
+            <p>Congruentes cum Obſervationibus accuratiſſimis No<g ref="char:EOLhyphen"/>bilis <hi>Tychonis Brahaei.</hi>
+            </p>
+            <p>Cui acceſſerit Obſervationum Aſtronomicarum <hi>Sy<g ref="char:EOLhyphen"/>nopſis compendiaria,</hi> ex quâ <hi>Aſtronomiae noſtrae</hi> certitudo affatim eluceſcit.</p>
+            <p>
+               <hi>Opus Exoptatum,</hi>
+            </p>
+            <p>Non modo Aſtronomis, Aſtrologis, ſed &amp; Theologis, Hiſtoriographis, Nantis, Medicis, &amp; Poetis, Perutile &amp; jucundum.</p>
+            <p>Authore <hi>Vincentio Wing.</hi>
+            </p>
+            <p>
+               <hi>The Reader may take notice, That the method of calculating the</hi> motion <hi>of the</hi> Planets <hi>(as it's laid down in the fifth Book) is not only more accu<g ref="char:EOLhyphen"/>rate, but alſo far more eaſie then hath yet been taught by any; for there the</hi> Parallax <hi>of the</hi> Orbe <hi>in every one of the Planets (by help of the</hi> New Ta<g ref="char:EOLhyphen"/>bles <hi>diviſed and compoſed by the Author) may be found by inſpection only: And their Latitude may alſo there be had with the like eaſe, without</hi> Trigo<g ref="char:EOLhyphen"/>nometrical Calculation.</p>
+            <p>
+               <hi>A Work ſo generally uſefull and exact, that the Author hereof intends ſhortly to make it pub<g ref="char:EOLhyphen"/>lique.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
